@@ -64,8 +64,23 @@ DivAirportLandings											NVARCHAR(50)
 );
 
 GO
-
+DROP TABLE Airlines;
 CREATE TABLE Airlines(
 Code														NVARCHAR(15),
-[Description]												NVARCHAR(50)
+[Description]												NVARCHAR(250)
 );
+
+GO
+BULK INSERT Flights
+FROM 'C:\Users\js\Documents\ID\Parcial3\archive\union.csv'
+WITH(FORMAT='CSV',FIRSTROW=2, ROWTERMINATOR='0x0a')
+GO
+
+BULK INSERT Airlines
+FROM 'C:\Users\js\Documents\ID\Parcial3\archive\Airlines.csv'
+WITH(FORMAT='CSV',FIRSTROW=2, ROWTERMINATOR='0x0a')
+GO
+
+SELECT *FROM Airlines;
+
+
