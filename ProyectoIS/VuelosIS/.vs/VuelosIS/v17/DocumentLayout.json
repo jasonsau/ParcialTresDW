@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\DimAirlines.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
       "RelativeMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|solutionrelative:VuelosIS\\DimAirlines.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\DimAeropuerto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|solutionrelative:VuelosIS\\DimAeropuerto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,6 +27,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DimAeropuerto.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\DimAeropuerto.dtsx",
+              "RelativeDocumentMoniker": "VuelosIS\\DimAeropuerto.dtsx",
+              "ToolTip": "C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\DimAeropuerto.dtsx [Design]",
+              "RelativeToolTip": "VuelosIS\\DimAeropuerto.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-23T05:20:46.905Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",

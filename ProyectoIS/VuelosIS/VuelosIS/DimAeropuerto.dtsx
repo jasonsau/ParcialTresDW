@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="10/22/2024 12:23:12 AM"
+  DTS:CreationDate="10/22/2024 10:20:46 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-U3LGKH3"
   DTS:CreatorName="DESKTOP-U3LGKH3\js"
-  DTS:DTSID="{54C517F8-936A-417B-8D69-4CAE0120E801}"
+  DTS:DTSID="{4D727230-4EF0-445E-9443-D584A6AC8F21}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5556.0"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="DimAeropuerto"
   DTS:PackageType="5"
   DTS:VersionBuild="7"
-  DTS:VersionGUID="{8E115FB5-2760-4C5A-ABAD-37075DDE4139}">
+  DTS:VersionGUID="{3245684B-2951-472D-8C5B-AE5E7577E5B6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
     <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[DBDestinationAdo]"
-      DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
-      DTS:DTSID="{7DCDDF14-0823-4935-85F8-6C508A83CD09}"
-      DTS:ObjectName="DBDestinationAdo">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=localhost;User ID=js;Initial Catalog=DwVuelos;Application Name=SSIS-Package-{7DCDDF14-0823-4935-85F8-6C508A83CD09}localhost.ParcialTresTransaccional.js;">
-          <DTS:Password
-            DTS:Name="Password"
-            Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADTa2q8kz+eHx7VlwL+bpSSIxRzn9mRxhszjhxgKh/7OgAAAAAOgAAAAAIAACAAAADjJAOtwdXlmAADpt/kWRh/hvY6jofoXUEM3URr+NlIdiAAAACWExf9QT8YZs2OerbJu1fk3Ryodz6pmOLYrbzLbo+vPUAAAACdzrlDPjsXPBuM7KNOVgPLNI+IWxb/YvDKhrjQWM1jB/6QooM6w9dbv1DC6bLgg/E3+AWr7nu4TRos5FAEeYsk</DTS:Password>
-        </DTS:ConnectionManager>
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[DBDestino]"
+      DTS:refId="Package.ConnectionManagers[Destino]"
       DTS:CreationName="OLEDB"
-      DTS:DTSID="{060CA9AF-D439-421C-BB6D-FBA0153D3B6B}"
-      DTS:ObjectName="DBDestino">
+      DTS:DTSID="{C0F9A0C3-1EFD-4884-9443-A36A05755FB1}"
+      DTS:ObjectName="Destino">
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=localhost;User ID=js;Initial Catalog=DwVuelos;Provider=MSOLEDBSQL.1;Auto Translate=False;Application Name=SSIS-Package-{060CA9AF-D439-421C-BB6D-FBA0153D3B6B}localhost.AdventureWorks2022.js;">
+          DTS:ConnectionString="Data Source=localhost;User ID=js;Initial Catalog=DwVuelos;Provider=MSOLEDBSQL.1;Auto Translate=False;Application Name=SSIS-DimAeropuerto-{C0F9A0C3-1EFD-4884-9443-A36A05755FB1}localhost.js;">
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAIUXnRF1zFt9EU4mA4N/NMDLdFzXs2v7xP+jEK0iiSnAAAAAAOgAAAAAIAACAAAAAPEMWOAn6DG+KKbtIaJSdIh/gb1y8iHFjPOD2F7czXaSAAAABO6MfCoG6HCnQEoET1qKG2UbPBMSrFfaIg1njuEXNG/UAAAADC60W82i+V34ko5J2khj2TRucoUe8jErbJwqp/IXNa7lkmiL6sZ6tbbrOfiODWKIrVUEnffY9KKbBPFtgkDJfD</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC9jIIq1gLRS2Klt9ZOuBk8YWVt3chAHZGgQdFRoj676wAAAAAOgAAAAAIAACAAAAD7eRz6VPz8tM1vp2bI1qQdSGjJygXkL+JZtK4O93rikSAAAACffsK3IUEMYPZQi3j6z4cBVyQxYfss+1TcBSv6FBmik0AAAAAWw/ad4SSJe5yR0MehNZmAHXXYA699yLtK225l3HcVh0PVl0Qy9DJdUvAUCh3ALOgijqK9j9CQ3trJp0pxVUE3</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[DBOrigen]"
+      DTS:refId="Package.ConnectionManagers[DestinoAdo]"
       DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
-      DTS:DTSID="{4956D920-9079-4517-A635-3DDC5D3E5CB3}"
-      DTS:ObjectName="DBOrigen">
+      DTS:DTSID="{E38D4CBA-F1C5-4A32-ACE5-BE8AAAFED985}"
+      DTS:ObjectName="DestinoAdo">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=localhost;User ID=js;Initial Catalog=ParcialTresTransaccional;Application Name=SSIS-Package-{4956D920-9079-4517-A635-3DDC5D3E5CB3}localhost.ParcialTresTransaccional.js;">
+          DTS:ConnectionString="Data Source=localhost;User ID=js;Initial Catalog=DwVuelos;Application Name=SSIS-DimAeropuerto-{E38D4CBA-F1C5-4A32-ACE5-BE8AAAFED985}localhost.ParcialTresTransaccional.js;">
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABK/YI9DuWniWsYtnK+y4CFs9dkrXfJaB6A83DHWONP2gAAAAAOgAAAAAIAACAAAACeb1mtrGwrLGgelkwfb/DvjtyAvu0mXkeLKlWGwSoaLiAAAAAWFnZK196ZBgv3B8BlwRjuT4eaYJgOk3C9MthCDRFPCkAAAABA0rSg2XCE/Vgaaq1kJIaGLOO7ZfkMWeBpwPzji+ftGhzi/EfDrH0McDrzQUMaHLlP+dwmj45JaM8V1jPNVYsP</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABI+3Zqv2VMeFcceAg9l3lR21iEyZlhq28N49ac+VNH0wAAAAAOgAAAAAIAACAAAACOKecJEFWoJjI0pKAh9hwAjCAbJ/iPZVlGtk9mxvY2FSAAAAD7OqxGVi6+VVhqsahMJhUfB0gQMapccFjmryA4BEG+xUAAAACCLjoQWyV0ZDMwvXxwWGlNdJ47zeGUknF+HN+TT7p6VimQa11wjbOjqlK/Rlg7wXhgmYWO0tmtwRq6P2Qqyyvr</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Origin]"
+      DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+      DTS:DTSID="{B51474A4-32B7-457C-8DA6-7FC36B69CD25}"
+      DTS:ObjectName="Origin">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="Data Source=localhost;User ID=js;Initial Catalog=ParcialTresTransaccional;Application Name=SSIS-DimAeropuerto-{B51474A4-32B7-457C-8DA6-7FC36B69CD25}localhost.ParcialTresTransaccional.js;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACkZlU70DePIsoE/vKCi++AcYJ7NDQr3dZS9g9V5PgJIAAAAAAOgAAAAAIAACAAAAAgl/WyuzfAQTHQIvMKFOJIj2TNHk5hr4nOahmpyJyFdCAAAACDBjsbRK3Evdeeb+OgzHIMNtXxleXdba2x5h30iy0dN0AAAABbdgLVz/RCpQUn9kLrqSZdpJ2ekJBxh62Odr7VSBqv4zjdCJzAIJY8zav7PaQynce/lKne3Oc3X6yfcSzClyo9</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -67,13 +67,13 @@
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\Llenado Airlines"
+      DTS:refId="Package\Data Flow Task"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:DTSID="{49142BCA-76A5-44D5-BE85-50B81B95B7A1}"
+      DTS:DTSID="{F070B663-0358-4D83-9DC8-52E95DD852DD}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
-      DTS:ObjectName="Llenado Airlines"
+      DTS:ObjectName="Data Flow Task"
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:ObjectData>
@@ -81,7 +81,7 @@
           version="1">
           <components>
             <component
-              refId="Package\Llenado Airlines\Actualizacion de registros"
+              refId="Package\Data Flow Task\Actualizacion de registros"
               componentClassID="Microsoft.OLEDBCommand"
               contactInfo="OLE DB Command;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
               description="Runs an SQL statement for each row in a data flow. For example, call a 'new employee setup' stored procedure for each row in the 'new employees' table. Note: running an SQL statement for each row of a large data flow may take a long time."
@@ -98,7 +98,7 @@
                   description="The SQL command to be executed."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">EXEC ActualizarDimAirlines ?, ?, ?</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">Exec ActualizarDimAeropuertos ?, ?, ?</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -106,47 +106,47 @@
               </properties>
               <connections>
                 <connection
-                  refId="Package\Llenado Airlines\Actualizacion de registros.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DBDestino]"
-                  connectionManagerRefId="Package.ConnectionManagers[DBDestino]"
+                  refId="Package\Data Flow Task\Actualizacion de registros.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[Destino]"
+                  connectionManagerRefId="Package.ConnectionManagers[Destino]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
               <inputs>
                 <input
-                  refId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input]"
+                  refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input]"
                   errorOrTruncationOperation="Command Execution"
                   errorRowDisposition="FailComponent"
                   hasSideEffects="true"
                   name="OLE DB Command Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input].Columns[AirlineKey]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].Columns[AeropuertoKey]"
                       cachedDataType="i4"
-                      cachedName="AirlineKey"
-                      externalMetadataColumnId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@AirlineKey]"
-                      lineageId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Match Output].Columns[AirlineKey]" />
+                      cachedName="AeropuertoKey"
+                      externalMetadataColumnId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@AeropuertoKey]"
+                      lineageId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Match Output].Columns[AeropuertoKey]" />
                     <inputColumn
-                      refId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input].Columns[Code]"
-                      cachedDataType="wstr"
-                      cachedLength="15"
-                      cachedName="Code"
-                      externalMetadataColumnId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@CodigoAerolinia]"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Code]" />
-                    <inputColumn
-                      refId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input].Columns[Description]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].Columns[NombreCiudad]"
                       cachedDataType="wstr"
                       cachedLength="250"
-                      cachedName="Description"
-                      externalMetadataColumnId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@DescripcionAerolinea]"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Description]" />
+                      cachedName="NombreCiudad"
+                      externalMetadataColumnId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@NombreCiudad]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreCiudad]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].Columns[NombreEstado]"
+                      cachedDataType="wstr"
+                      cachedLength="250"
+                      cachedName="NombreEstado"
+                      externalMetadataColumnId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@NombreEstado]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreEstado]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@AirlineKey]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@AeropuertoKey]"
                       dataType="i4"
-                      name="@AirlineKey">
+                      name="@AeropuertoKey">
                       <properties>
                         <property
                           dataType="System.Int32"
@@ -155,10 +155,10 @@
                       </properties>
                     </externalMetadataColumn>
                     <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@CodigoAerolinia]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@NombreCiudad]"
                       dataType="wstr"
-                      length="15"
-                      name="@CodigoAerolinia">
+                      length="250"
+                      name="@NombreCiudad">
                       <properties>
                         <property
                           dataType="System.Int32"
@@ -167,10 +167,10 @@
                       </properties>
                     </externalMetadataColumn>
                     <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@DescripcionAerolinea]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@NombreEstado]"
                       dataType="wstr"
                       length="250"
-                      name="@DescripcionAerolinea">
+                      name="@NombreEstado">
                       <properties>
                         <property
                           dataType="System.Int32"
@@ -183,29 +183,29 @@
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Llenado Airlines\Actualizacion de registros.Outputs[OLE DB Command Output]"
+                  refId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Output]"
                   exclusionGroup="1"
                   name="OLE DB Command Output"
-                  synchronousInputId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input]">
+                  synchronousInputId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input]">
                   <externalMetadataColumns />
                 </output>
                 <output
-                  refId="Package\Llenado Airlines\Actualizacion de registros.Outputs[OLE DB Command Error Output]"
+                  refId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
                   name="OLE DB Command Error Output"
-                  synchronousInputId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input]">
+                  synchronousInputId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Llenado Airlines\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Llenado Airlines\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Llenado Airlines\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Llenado Airlines\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -214,11 +214,11 @@
               </outputs>
             </component>
             <component
-              refId="Package\Llenado Airlines\Lectura de airlines"
+              refId="Package\Data Flow Task\Lectura de datos"
               componentClassID="Microsoft.ManagedComponentHost"
               contactInfo="Consumes data from SQL Server, OLE DB, ODBC, or Oracle, using the corresponding .NET Framework data provider. Use a Transact-SQL statement to define the result set. For example, extract data from SQL Server with the .NET Framework data provider for SQL Server.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
               description="Consumes data from SQL Server, OLE DB, ODBC, or Oracle, using the corresponding .NET Framework data provider. Use a Transact-SQL statement to define the result set. For example, extract data from SQL Server with the .NET Framework data provider for SQL Server."
-              name="Lectura de airlines"
+              name="Lectura de datos"
               usesDispositions="true"
               version="4">
               <properties>
@@ -227,11 +227,12 @@
                   description="Specifies the SQL statement used by the component to extract data."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT Distinct Cast(OriginAirportID as BIGINT) as AeropuertoId, OriginCityName as NombreCiudad, OriginStateName as NombreEstado FROM Flights
+UNION SELECT Distinct Cast(DestAirportID as BIGINT) as AeropuertoID, DestCityName as NombreCiudad, DestStateName as NombreEstado FROM Flights;</property>
                 <property
                   dataType="System.Int32"
                   description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">30</property>
+                  name="CommandTimeout">10000000</property>
                 <property
                   dataType="System.Boolean"
                   description="Indicates whether to allow non-string external columns to be implicitly converted to strings at the output columns."
@@ -241,91 +242,109 @@
                   description="The Source database table name."
                   expressionType="Notify"
                   name="TableOrViewName"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"dbo"."Airlines"</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
                 <property
                   dataType="System.Int32"
                   description="Specify the mode to retrieve external column information"
                   name="AccessMode"
-                  typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">0</property>
+                  typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">2</property>
                 <property
                   dataType="System.String"
                   name="UserComponentTypeName">Microsoft.DataReaderSourceAdapter</property>
               </properties>
               <connections>
                 <connection
-                  refId="Package\Llenado Airlines\Lectura de airlines.Connections[IDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DBOrigen]"
-                  connectionManagerRefId="Package.ConnectionManagers[DBOrigen]"
+                  refId="Package\Data Flow Task\Lectura de datos.Connections[IDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[Origin]"
+                  connectionManagerRefId="Package.ConnectionManagers[Origin]"
                   description="Managed connection manager"
                   name="IDbConnection" />
               </connections>
               <outputs>
                 <output
-                  refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output]"
+                  refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output]"
                   name="ADO NET Source Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Code]"
-                      dataType="wstr"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]"
+                      dataType="i8"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].ExternalColumns[Code]"
-                      length="15"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Code]"
-                      name="Code"
+                      externalMetadataColumnId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[AeropuertoId]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]"
+                      name="AeropuertoId"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Description]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreCiudad]"
                       dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].ExternalColumns[Description]"
+                      externalMetadataColumnId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[NombreCiudad]"
                       length="250"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Description]"
-                      name="Description"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreCiudad]"
+                      name="NombreCiudad"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreEstado]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[NombreEstado]"
+                      length="250"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreEstado]"
+                      name="NombreEstado"
                       truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].ExternalColumns[Code]"
-                      dataType="wstr"
-                      length="15"
-                      name="Code" />
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[AeropuertoId]"
+                      dataType="i8"
+                      name="AeropuertoId" />
                     <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].ExternalColumns[Description]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[NombreCiudad]"
                       dataType="wstr"
                       length="250"
-                      name="Description" />
+                      name="NombreCiudad" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[NombreEstado]"
+                      dataType="wstr"
+                      length="250"
+                      name="NombreEstado" />
                   </externalMetadataColumns>
                 </output>
                 <output
-                  refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Error Output]"
+                  refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output]"
                   isErrorOut="true"
                   name="ADO NET Source Error Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Error Output].Columns[Code]"
-                      dataType="wstr"
-                      length="15"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Error Output].Columns[Code]"
-                      name="Code" />
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[AeropuertoId]"
+                      dataType="i8"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[AeropuertoId]"
+                      name="AeropuertoId" />
                     <outputColumn
-                      refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Error Output].Columns[Description]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[NombreCiudad]"
                       dataType="wstr"
                       length="250"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Error Output].Columns[Description]"
-                      name="Description" />
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[NombreCiudad]"
+                      name="NombreCiudad" />
                     <outputColumn
-                      refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Error Output].Columns[ErrorCode]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[NombreEstado]"
+                      dataType="wstr"
+                      length="250"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[NombreEstado]"
+                      name="NombreEstado" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Error Output].Columns[ErrorColumn]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -334,7 +353,7 @@
               </outputs>
             </component>
             <component
-              refId="Package\Llenado Airlines\Llenado de dimension"
+              refId="Package\Data Flow Task\Llenado de dimension"
               componentClassID="Microsoft.ManagedComponentHost"
               contactInfo="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
               description="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination."
@@ -347,7 +366,7 @@
                   description="The Destination database table name."
                   expressionType="Notify"
                   name="TableOrViewName"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"dbo"."DimAirlines"</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"dbo"."DimAeropuertos"</property>
                 <property
                   dataType="System.Int32"
                   description="Specify the number of rows per batch. The default is 0 which uses the same size as SSIS internal buffer. "
@@ -369,79 +388,81 @@
               </properties>
               <connections>
                 <connection
-                  refId="Package\Llenado Airlines\Llenado de dimension.Connections[IDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DBDestinationAdo]"
-                  connectionManagerRefId="Package.ConnectionManagers[DBDestinationAdo]"
+                  refId="Package\Data Flow Task\Llenado de dimension.Connections[IDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DestinoAdo]"
+                  connectionManagerRefId="Package.ConnectionManagers[DestinoAdo]"
                   description="Managed connection manager"
                   name="IDbConnection" />
               </connections>
               <inputs>
                 <input
-                  refId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input]"
+                  refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input]"
                   errorRowDisposition="FailComponent"
                   hasSideEffects="true"
                   name="ADO NET Destination Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input].Columns[Code]"
-                      cachedDataType="wstr"
-                      cachedLength="15"
-                      cachedName="Code"
-                      externalMetadataColumnId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[CodigoAeroline]"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Code]" />
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].Columns[AeropuertoId]"
+                      cachedDataType="i8"
+                      cachedName="AeropuertoId"
+                      externalMetadataColumnId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[AeropuertoId]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]" />
                     <inputColumn
-                      refId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input].Columns[Description]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].Columns[NombreCiudad]"
                       cachedDataType="wstr"
                       cachedLength="250"
-                      cachedName="Description"
-                      externalMetadataColumnId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[DescripcionAerolinea]"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Description]" />
+                      cachedName="NombreCiudad"
+                      externalMetadataColumnId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[NombreCiudad]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreCiudad]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].Columns[NombreEstado]"
+                      cachedDataType="wstr"
+                      cachedLength="250"
+                      cachedName="NombreEstado"
+                      externalMetadataColumnId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[NombreEstado]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreEstado]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[AirlineKey]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[AeropuertoKey]"
                       dataType="i4"
-                      name="AirlineKey" />
+                      name="AeropuertoKey" />
                     <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[CodigoAeroline]"
-                      dataType="wstr"
-                      length="15"
-                      name="CodigoAeroline" />
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[AeropuertoId]"
+                      dataType="i8"
+                      name="AeropuertoId" />
                     <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[DescripcionAerolinea]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[NombreCiudad]"
                       dataType="wstr"
                       length="250"
-                      name="DescripcionAerolinea" />
+                      name="NombreCiudad" />
                     <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[Activo]"
-                      dataType="bool"
-                      name="Activo" />
-                    <externalMetadataColumn
-                      refId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[FechaActualizacion]"
-                      dataType="dbTimeStamp"
-                      name="FechaActualizacion" />
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[NombreEstado]"
+                      dataType="wstr"
+                      length="250"
+                      name="NombreEstado" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Llenado Airlines\Llenado de dimension.Outputs[ADO NET Destination Error Output]"
+                  refId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
                   name="ADO NET Destination Error Output"
-                  synchronousInputId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input]">
+                  synchronousInputId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Llenado Airlines\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Llenado Airlines\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Llenado Airlines\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Llenado Airlines\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -450,11 +471,11 @@
               </outputs>
             </component>
             <component
-              refId="Package\Llenado Airlines\Verificar si el registro existe"
+              refId="Package\Data Flow Task\Verificar si el registro ya existe"
               componentClassID="Microsoft.Lookup"
               contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
               description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
-              name="Verificar si el registro existe"
+              name="Verificar si el registro ya existe"
               usesDispositions="true"
               version="6">
               <properties>
@@ -463,14 +484,14 @@
                   description="Specifies the SQL statement that generates the lookup table."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[DimAirlines]</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[DimAeropuertos]</property>
                 <property
                   dataType="System.String"
                   description="Specifies a SQL statement that uses parameters to generate the lookup table."
                   expressionType="Notify"
                   name="SqlCommandParam"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[DimAirlines]) [refTable]
-where [refTable].[CodigoAeroline] = ?</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[DimAeropuertos]) [refTable]
+where [refTable].[AeropuertoId] = ?</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the type of connection used to access the reference dataset."
@@ -501,12 +522,12 @@ where [refTable].[CodigoAeroline] = ?</property>
                 <property
                   dataType="System.String"
                   description="Indicates whether to reference metadata in an XML format."
-                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="AirlineKey" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="CodigoAeroline" dataType="DT_WSTR" length="15" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="DescripcionAerolinea" dataType="DT_WSTR" length="250" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="Activo" dataType="DT_BOOL" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="FechaActualizacion" dataType="DT_DBDATE" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
+                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="AeropuertoKey" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="AeropuertoId" dataType="DT_I8" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="NombreCiudad" dataType="DT_WSTR" length="250" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="NombreEstado" dataType="DT_WSTR" length="250" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
                 <property
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Code]};</property>
+                  name="ParameterMap">#{Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -518,28 +539,27 @@ where [refTable].[CodigoAeroline] = ?</property>
               </properties>
               <connections>
                 <connection
-                  refId="Package\Llenado Airlines\Verificar si el registro existe.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DBDestino]"
-                  connectionManagerRefId="Package.ConnectionManagers[DBDestino]"
+                  refId="Package\Data Flow Task\Verificar si el registro ya existe.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[Destino]"
+                  connectionManagerRefId="Package.ConnectionManagers[Destino]"
                   description="Connection manager used to access lookup data."
                   name="OleDbConnection" />
               </connections>
               <inputs>
                 <input
-                  refId="Package\Llenado Airlines\Verificar si el registro existe.Inputs[Lookup Input]"
+                  refId="Package\Data Flow Task\Verificar si el registro ya existe.Inputs[Lookup Input]"
                   name="Lookup Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Llenado Airlines\Verificar si el registro existe.Inputs[Lookup Input].Columns[Code]"
-                      cachedDataType="wstr"
-                      cachedLength="15"
-                      cachedName="Code"
-                      lineageId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output].Columns[Code]">
+                      refId="Package\Data Flow Task\Verificar si el registro ya existe.Inputs[Lookup Input].Columns[AeropuertoId]"
+                      cachedDataType="i8"
+                      cachedName="AeropuertoId"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]">
                       <properties>
                         <property
                           dataType="System.String"
                           description="Specifies the column in the reference table that a column joins."
-                          name="JoinToReferenceColumn">CodigoAeroline</property>
+                          name="JoinToReferenceColumn">AeropuertoId</property>
                         <property
                           dataType="System.Null"
                           description="Specifies the column in the reference table from which a column is copied."
@@ -552,54 +572,54 @@ where [refTable].[CodigoAeroline] = ?</property>
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Match Output]"
+                  refId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
                   exclusionGroup="1"
                   name="Lookup Match Output"
-                  synchronousInputId="Package\Llenado Airlines\Verificar si el registro existe.Inputs[Lookup Input]">
+                  synchronousInputId="Package\Data Flow Task\Verificar si el registro ya existe.Inputs[Lookup Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Match Output].Columns[AirlineKey]"
+                      refId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Match Output].Columns[AeropuertoKey]"
                       dataType="i4"
                       errorOrTruncationOperation="Copy Column"
-                      lineageId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Match Output].Columns[AirlineKey]"
-                      name="AirlineKey"
+                      lineageId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Match Output].Columns[AeropuertoKey]"
+                      name="AeropuertoKey"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
                           dataType="System.String"
                           description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">AirlineKey</property>
+                          name="CopyFromReferenceColumn">AeropuertoKey</property>
                       </properties>
                     </outputColumn>
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
                 <output
-                  refId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup No Match Output]"
+                  refId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup No Match Output]"
                   description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
                   exclusionGroup="1"
                   name="Lookup No Match Output"
-                  synchronousInputId="Package\Llenado Airlines\Verificar si el registro existe.Inputs[Lookup Input]">
+                  synchronousInputId="Package\Data Flow Task\Verificar si el registro ya existe.Inputs[Lookup Input]">
                   <externalMetadataColumns />
                 </output>
                 <output
-                  refId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Error Output]"
+                  refId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
                   name="Lookup Error Output"
-                  synchronousInputId="Package\Llenado Airlines\Verificar si el registro existe.Inputs[Lookup Input]">
+                  synchronousInputId="Package\Data Flow Task\Verificar si el registro ya existe.Inputs[Lookup Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      refId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      refId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -610,20 +630,20 @@ where [refTable].[CodigoAeroline] = ?</property>
           </components>
           <paths>
             <path
-              refId="Package\Llenado Airlines.Paths[ADO NET Source Output]"
-              endId="Package\Llenado Airlines\Verificar si el registro existe.Inputs[Lookup Input]"
+              refId="Package\Data Flow Task.Paths[ADO NET Source Output]"
+              endId="Package\Data Flow Task\Verificar si el registro ya existe.Inputs[Lookup Input]"
               name="ADO NET Source Output"
-              startId="Package\Llenado Airlines\Lectura de airlines.Outputs[ADO NET Source Output]" />
+              startId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output]" />
             <path
-              refId="Package\Llenado Airlines.Paths[Lookup Match Output]"
-              endId="Package\Llenado Airlines\Actualizacion de registros.Inputs[OLE DB Command Input]"
+              refId="Package\Data Flow Task.Paths[Lookup Match Output]"
+              endId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input]"
               name="Lookup Match Output"
-              startId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup Match Output]" />
+              startId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Match Output]" />
             <path
-              refId="Package\Llenado Airlines.Paths[Lookup No Match Output]"
-              endId="Package\Llenado Airlines\Llenado de dimension.Inputs[ADO NET Destination Input]"
+              refId="Package\Data Flow Task.Paths[Lookup No Match Output]"
+              endId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input]"
               name="Lookup No Match Output"
-              startId="Package\Llenado Airlines\Verificar si el registro existe.Outputs[Lookup No Match Output]" />
+              startId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup No Match Output]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -642,83 +662,51 @@ where [refTable].[CodigoAeroline] = ?</property>
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="157,42"
-          Id="Package\Llenado Airlines"
-          TopLeft="303,164" />
+          Size="155,42"
+          Id="Package\Data Flow Task"
+          TopLeft="224,214" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
   <TaskHost
-    design-time-name="Package\Llenado Airlines">
+    design-time-name="Package\Data Flow Task">
     <LayoutInfo>
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="169,42"
-          Id="Package\Llenado Airlines\Lectura de airlines"
-          TopLeft="148,155" />
+          Size="161,42"
+          Id="Package\Data Flow Task\Lectura de datos"
+          TopLeft="168,144" />
         <NodeLayout
-          Size="204,42"
-          Id="Package\Llenado Airlines\Actualizacion de registros"
-          TopLeft="748,330" />
-        <NodeLayout
-          Size="187,42"
-          Id="Package\Llenado Airlines\Llenado de dimension"
-          TopLeft="194,349" />
-        <NodeLayout
-          Size="213,42"
-          Id="Package\Llenado Airlines\Verificar si el registro existe"
-          TopLeft="470,154" />
+          Size="228,42"
+          Id="Package\Data Flow Task\Verificar si el registro ya existe"
+          TopLeft="497,164" />
         <EdgeLayout
-          Id="Package\Llenado Airlines.Paths[Lookup Match Output]"
-          TopLeft="610.666666666667,196">
+          Id="Package\Data Flow Task.Paths[ADO NET Source Output]"
+          TopLeft="329,165">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="239.333333333333,134"
+              EndConnector="168,20"
               Start="0,0"
-              End="239.333333333333,126.5">
+              End="160.5,20">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,50.1994408201305" />
+                    End="80,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,50.1994408201305"
-                    Point2="0,54.1994408201305"
-                    Point3="4,54.1994408201305" />
+                    Point1="80,0"
+                    Point2="84,0"
+                    Point3="84,4" />
                   <mssgle:LineSegment
-                    End="235.333333333333,54.1994408201305" />
+                    End="84,16" />
                   <mssgle:CubicBezierSegment
-                    Point1="235.333333333333,54.1994408201305"
-                    Point2="239.333333333333,54.1994408201305"
-                    Point3="239.333333333333,58.1994408201305" />
+                    Point1="84,16"
+                    Point2="84,20"
+                    Point3="88,20" />
                   <mssgle:LineSegment
-                    End="239.333333333333,126.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="71.4752799479167,59.1994408201305,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Llenado Airlines.Paths[ADO NET Source Output]"
-          TopLeft="317,175.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="153,0"
-              Start="0,0"
-              End="145.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="145.5,0" />
+                    End="160.5,20" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -727,39 +715,83 @@ where [refTable].[CodigoAeroline] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="187,42"
+          Id="Package\Data Flow Task\Llenado de dimension"
+          TopLeft="163,297" />
         <EdgeLayout
-          Id="Package\Llenado Airlines.Paths[Lookup No Match Output]"
-          TopLeft="542.333333333333,196">
+          Id="Package\Data Flow Task.Paths[Lookup No Match Output]"
+          TopLeft="574.333333333333,206">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-254.833333333333,153"
+              EndConnector="-317.833333333333,91"
               Start="0,0"
-              End="-254.833333333333,145.5">
+              End="-317.833333333333,83.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,57.8844361602982" />
+                    End="0,32.7804878048781" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,57.8844361602982"
-                    Point2="0,61.8844361602982"
-                    Point3="-4,61.8844361602982" />
+                    Point1="0,32.7804878048781"
+                    Point2="0,36.7804878048781"
+                    Point3="-4,36.7804878048781" />
                   <mssgle:LineSegment
-                    End="-250.833333333333,61.8844361602982" />
+                    End="-313.833333333333,36.7804878048781" />
                   <mssgle:CubicBezierSegment
-                    Point1="-250.833333333333,61.8844361602982"
-                    Point2="-254.833333333333,61.8844361602982"
-                    Point3="-254.833333333333,65.8844361602982" />
+                    Point1="-313.833333333333,36.7804878048781"
+                    Point2="-317.833333333333,36.7804878048781"
+                    Point3="-317.833333333333,40.7804878048781" />
                   <mssgle:LineSegment
-                    End="-254.833333333333,145.5" />
+                    End="-317.833333333333,83.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-183.223053385417,66.8844361602982,111.6127734375,11.609375"
+              BoundingBox="-214.723053385417,41.7804878048781,111.6127734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="204,42"
+          Id="Package\Data Flow Task\Actualizacion de registros"
+          TopLeft="811,316" />
+        <EdgeLayout
+          Id="Package\Data Flow Task.Paths[Lookup Match Output]"
+          TopLeft="647.666666666667,206">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="265.333333333333,110"
+              Start="0,0"
+              End="265.333333333333,102.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,40.4599303135889" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,40.4599303135889"
+                    Point2="0,44.4599303135889"
+                    Point3="4,44.4599303135889" />
+                  <mssgle:LineSegment
+                    End="261.333333333333,44.4599303135889" />
+                  <mssgle:CubicBezierSegment
+                    Point1="261.333333333333,44.4599303135889"
+                    Point2="265.333333333333,44.4599303135889"
+                    Point3="265.333333333333,48.4599303135889" />
+                  <mssgle:LineSegment
+                    End="265.333333333333,102.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="84.4752799479167,49.4599303135889,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -767,7 +799,7 @@ where [refTable].[CodigoAeroline] = ?</property>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Llenado Airlines\Lectura de airlines">
+    design-time-name="Package\Data Flow Task\Lectura de datos">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -775,31 +807,31 @@ where [refTable].[CodigoAeroline] = ?</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Llenado Airlines\Llenado de dimension">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Llenado Airlines\Verificar si el registro existe">
+    design-time-name="Package\Data Flow Task\Verificar si el registro ya existe">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:string">false</Value>
+          type="q2:boolean">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
         <Value
-          type="q3:string">[dbo].[DimAirlines]</Value>
+          type="q3:string">[dbo].[DimAeropuertos]</Value>
       </Property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:string">0</Value>
+          type="q4:int">0</Value>
       </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow Task\Llenado de dimension">
+    <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
       </Property>
