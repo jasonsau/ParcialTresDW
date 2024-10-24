@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="DimAeropuerto"
   DTS:PackageType="5"
-  DTS:VersionBuild="6"
-  DTS:VersionGUID="{F53E88D1-6BA9-45F8-B519-5BF0A321C9D3}">
+  DTS:VersionBuild="7"
+  DTS:VersionGUID="{3245684B-2951-472D-8C5B-AE5E7577E5B6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADhoXHgQWKHgO3Mw2xDw/uzRi/L0ooSZGRAJm3wKLYPCQAAAAAOgAAAAAIAACAAAACd24372vnqwrRPzflXAB6RL8Z3R4aYVugTo1dW0BPDWiAAAACcPZ1jbgZ13GfI1AWAUD4rgAshDoXg54yvejk7suk/BkAAAADezsMfYYOobEXw3d/HEwVGsxkdsYAifWX5wuodX4ZNMj1lyCg1mLq/NDFC62heo8C9NTVu6JDbzaow8fcv3jZp</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAd3cbzn+1HlDkVhPP/wtaTU0grbISUTfAjifN9OsaQOAAAAAAOgAAAAAIAACAAAAAeQ09SYdsoDQdMvLSulAEUUJFCHNt3tnSmnq69d1sQniAAAAA3/0iute6zlMhDMOgPBVtNuB7xTDmeDFZDF8jX7sWMBUAAAAAAsQhj0Ogt4IAq0HxFIkDvA8E0fZwJ01kzL5X4FD1izcTcrn1MwwPK1LtM3AuICBRqXc5yA7Oc0aBEGzg9KzAZ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -44,7 +44,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABhL6zYOFiaXBove+YeKJF33TdR+LaHBhqq7ey0o6mhrQAAAAAOgAAAAAIAACAAAAAyQaogXk8svkNGjUs0Sep8JSf1YSuXEYneNxp91XnzACAAAABDzK6KRn21W0+/rcpuD3dCFrDpn9Skd7+dvigzilluTUAAAAD+eAncPjZAF1cZOyVG7nxZ9lm9uYdgoGTtMhgKgv9rHbMCpgbwo2dNrPl5fyhW/aED94nduJNdzwdVQ9Ki6LDo</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABbQjNMj2XzBxbdB/I6buefKO00YdwNl7+FQHmm7i1dmAAAAAAOgAAAAAIAACAAAABUQv2O7AjmY2is7DrghJXOrtGZ/MJSR63GAGm7JK/8lCAAAAAEKztKC2sMfqeFx0EfNi9DFFzmAx+ZG5jRh8Q3Mg9waEAAAAD1HJ0aPewiVQpyq6cngtXrhe9M/bqCWogXjhH+Q44u9Nau85t5AGr/ifsfyL49p5awDXU7t5JIZAl+4O7XjVyS</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -59,7 +59,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAHlTmqA249ZOaiOAjk4YSKShk4Uwa6V9E55O3LNcFb7AAAAAAOgAAAAAIAACAAAADcSuCFxoexPgzwe8KcNHckFF8vLThWzYx1zAOIMCLDuyAAAAA+Rqjwz3PnH8UMJsYwuDEjuy6/51KloeAUmz61t/sqdkAAAAA8uPZmsrXBmMBH7peYmt1PKl8+iRHWs2scHmINWoHxu9BiBJBSbPt8hcWlp7rMdlZvGpz8fB1Ui0fZstvxtXn1</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA0+f/RblEW2lSfSq+NDtcyfC3vLgjwGouFdm/759ucPQAAAAAOgAAAAAIAACAAAAC3qJKEDn81KLsJD3uN4GKZXM9mabRHqYAvr9HZ0jzy8CAAAAAm1eWMW8XKZtWAFB8JZTCaujlgzHb4uPISptCg2r0aoUAAAABxogd3y39ptSULP2NNi63mhfVgKlfXD7A42LVrFzQzVSUFRl5V6uQfXbgePJxMqSXwLmGzzL/kF/Y69VqACqoY</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -81,116 +81,131 @@
           version="1">
           <components>
             <component
-              refId="Package\Data Flow Task\ADO NET Destination"
-              componentClassID="Microsoft.ManagedComponentHost"
-              contactInfo="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
-              description="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination."
-              name="ADO NET Destination"
+              refId="Package\Data Flow Task\Actualizacion de registros"
+              componentClassID="Microsoft.OLEDBCommand"
+              contactInfo="OLE DB Command;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
+              description="Runs an SQL statement for each row in a data flow. For example, call a 'new employee setup' stored procedure for each row in the 'new employees' table. Note: running an SQL statement for each row of a large data flow may take a long time."
+              name="Actualizacion de registros"
               usesDispositions="true"
               version="2">
               <properties>
                 <property
-                  dataType="System.String"
-                  description="The Destination database table name."
-                  expressionType="Notify"
-                  name="TableOrViewName"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"dbo"."DimAeropuertos"</property>
-                <property
                   dataType="System.Int32"
-                  description="Specify the number of rows per batch. The default is 0 which uses the same size as SSIS internal buffer. "
-                  expressionType="Notify"
-                  name="BatchSize">0</property>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out. A value of 0 indicates infinite time-out. "
-                  expressionType="Notify"
-                  name="CommandTimeout">30</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Specifies whether to use the SqlBulkCopy interface to improve the performance of bulk insert operations. Only certain providers support this interface."
-                  expressionType="Notify"
-                  name="UseBulkInsertWhenPossible">true</property>
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
                 <property
                   dataType="System.String"
-                  name="UserComponentTypeName">Microsoft.ADONETDestination</property>
+                  description="The SQL command to be executed."
+                  expressionType="Notify"
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">Exec ActualizarDimAeropuertos ?, ?, ?</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
               </properties>
               <connections>
                 <connection
-                  refId="Package\Data Flow Task\ADO NET Destination.Connections[IDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DestinoAdo]"
-                  connectionManagerRefId="Package.ConnectionManagers[DestinoAdo]"
-                  description="Managed connection manager"
-                  name="IDbConnection" />
+                  refId="Package\Data Flow Task\Actualizacion de registros.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[Destino]"
+                  connectionManagerRefId="Package.ConnectionManagers[Destino]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
               </connections>
               <inputs>
                 <input
-                  refId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input]"
+                  refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input]"
+                  errorOrTruncationOperation="Command Execution"
                   errorRowDisposition="FailComponent"
                   hasSideEffects="true"
-                  name="ADO NET Destination Input">
+                  name="OLE DB Command Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[AeropuertoId]"
-                      cachedDataType="i8"
-                      cachedName="AeropuertoId"
-                      externalMetadataColumnId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[AeropuertoId]"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[AeropuertoId]" />
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].Columns[AeropuertoKey]"
+                      cachedDataType="i4"
+                      cachedName="AeropuertoKey"
+                      externalMetadataColumnId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@AeropuertoKey]"
+                      lineageId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Match Output].Columns[AeropuertoKey]" />
                     <inputColumn
-                      refId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[NombreCiudad]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].Columns[NombreCiudad]"
                       cachedDataType="wstr"
                       cachedLength="250"
                       cachedName="NombreCiudad"
-                      externalMetadataColumnId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[NombreCiudad]"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[NombreCiudad]" />
+                      externalMetadataColumnId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@NombreCiudad]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreCiudad]" />
                     <inputColumn
-                      refId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].Columns[NombreEstado]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].Columns[NombreEstado]"
                       cachedDataType="wstr"
                       cachedLength="250"
                       cachedName="NombreEstado"
-                      externalMetadataColumnId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[NombreEstado]"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[NombreEstado]" />
+                      externalMetadataColumnId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@NombreEstado]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreEstado]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[AeropuertoKey]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@AeropuertoKey]"
                       dataType="i4"
-                      name="AeropuertoKey" />
+                      name="@AeropuertoKey">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">81</property>
+                      </properties>
+                    </externalMetadataColumn>
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[AeropuertoId]"
-                      dataType="i8"
-                      name="AeropuertoId" />
-                    <externalMetadataColumn
-                      refId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[NombreCiudad]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@NombreCiudad]"
                       dataType="wstr"
                       length="250"
-                      name="NombreCiudad" />
+                      name="@NombreCiudad">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input].ExternalColumns[NombreEstado]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input].ExternalColumns[@NombreEstado]"
                       dataType="wstr"
                       length="250"
-                      name="NombreEstado" />
+                      name="@NombreEstado">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
                   </externalMetadataColumns>
                 </input>
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Data Flow Task\ADO NET Destination.Outputs[ADO NET Destination Error Output]"
+                  refId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Output]"
+                  exclusionGroup="1"
+                  name="OLE DB Command Output"
+                  synchronousInputId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input]">
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
-                  name="ADO NET Destination Error Output"
-                  synchronousInputId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input]">
+                  name="OLE DB Command Error Output"
+                  synchronousInputId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Destination.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\ADO NET Destination.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Destination.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      refId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\ADO NET Destination.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Data Flow Task\Actualizacion de registros.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -199,11 +214,11 @@
               </outputs>
             </component>
             <component
-              refId="Package\Data Flow Task\ADO NET Source"
+              refId="Package\Data Flow Task\Lectura de datos"
               componentClassID="Microsoft.ManagedComponentHost"
               contactInfo="Consumes data from SQL Server, OLE DB, ODBC, or Oracle, using the corresponding .NET Framework data provider. Use a Transact-SQL statement to define the result set. For example, extract data from SQL Server with the .NET Framework data provider for SQL Server.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
               description="Consumes data from SQL Server, OLE DB, ODBC, or Oracle, using the corresponding .NET Framework data provider. Use a Transact-SQL statement to define the result set. For example, extract data from SQL Server with the .NET Framework data provider for SQL Server."
-              name="ADO NET Source"
+              name="Lectura de datos"
               usesDispositions="true"
               version="4">
               <properties>
@@ -239,7 +254,7 @@ UNION SELECT Distinct Cast(DestAirportID as BIGINT) as AeropuertoID, DestCityNam
               </properties>
               <connections>
                 <connection
-                  refId="Package\Data Flow Task\ADO NET Source.Connections[IDbConnection]"
+                  refId="Package\Data Flow Task\Lectura de datos.Connections[IDbConnection]"
                   connectionManagerID="Package.ConnectionManagers[Origin]"
                   connectionManagerRefId="Package.ConnectionManagers[Origin]"
                   description="Managed connection manager"
@@ -247,89 +262,89 @@ UNION SELECT Distinct Cast(DestAirportID as BIGINT) as AeropuertoID, DestCityNam
               </connections>
               <outputs>
                 <output
-                  refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output]"
+                  refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output]"
                   name="ADO NET Source Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[AeropuertoId]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]"
                       dataType="i8"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].ExternalColumns[AeropuertoId]"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[AeropuertoId]"
+                      externalMetadataColumnId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[AeropuertoId]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]"
                       name="AeropuertoId"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[NombreCiudad]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreCiudad]"
                       dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].ExternalColumns[NombreCiudad]"
+                      externalMetadataColumnId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[NombreCiudad]"
                       length="250"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[NombreCiudad]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreCiudad]"
                       name="NombreCiudad"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[NombreEstado]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreEstado]"
                       dataType="wstr"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].ExternalColumns[NombreEstado]"
+                      externalMetadataColumnId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[NombreEstado]"
                       length="250"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[NombreEstado]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreEstado]"
                       name="NombreEstado"
                       truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].ExternalColumns[AeropuertoId]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[AeropuertoId]"
                       dataType="i8"
                       name="AeropuertoId" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].ExternalColumns[NombreCiudad]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[NombreCiudad]"
                       dataType="wstr"
                       length="250"
                       name="NombreCiudad" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].ExternalColumns[NombreEstado]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].ExternalColumns[NombreEstado]"
                       dataType="wstr"
                       length="250"
                       name="NombreEstado" />
                   </externalMetadataColumns>
                 </output>
                 <output
-                  refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output]"
+                  refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output]"
                   isErrorOut="true"
                   name="ADO NET Source Error Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[AeropuertoId]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[AeropuertoId]"
                       dataType="i8"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[AeropuertoId]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[AeropuertoId]"
                       name="AeropuertoId" />
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[NombreCiudad]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[NombreCiudad]"
                       dataType="wstr"
                       length="250"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[NombreCiudad]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[NombreCiudad]"
                       name="NombreCiudad" />
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[NombreEstado]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[NombreEstado]"
                       dataType="wstr"
                       length="250"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[NombreEstado]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[NombreEstado]"
                       name="NombreEstado" />
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[ErrorCode]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[ErrorColumn]"
+                      refId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -338,131 +353,116 @@ UNION SELECT Distinct Cast(DestAirportID as BIGINT) as AeropuertoID, DestCityNam
               </outputs>
             </component>
             <component
-              refId="Package\Data Flow Task\OLE DB Command"
-              componentClassID="Microsoft.OLEDBCommand"
-              contactInfo="OLE DB Command;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
-              description="Runs an SQL statement for each row in a data flow. For example, call a 'new employee setup' stored procedure for each row in the 'new employees' table. Note: running an SQL statement for each row of a large data flow may take a long time."
-              name="OLE DB Command"
+              refId="Package\Data Flow Task\Llenado de dimension"
+              componentClassID="Microsoft.ManagedComponentHost"
+              contactInfo="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination.;Microsoft Corporation; Microsoft SQL Server; © Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
+              description="Loads data into an ADO.NET-compliant database that uses a database table or view. Load data into a new or existing table. For example, use an ADO.NET provider for ODBC to load data into an ODBC destination."
+              name="Llenado de dimension"
               usesDispositions="true"
               version="2">
               <properties>
                 <property
+                  dataType="System.String"
+                  description="The Destination database table name."
+                  expressionType="Notify"
+                  name="TableOrViewName"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">"dbo"."DimAeropuertos"</property>
+                <property
                   dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
+                  description="Specify the number of rows per batch. The default is 0 which uses the same size as SSIS internal buffer. "
+                  expressionType="Notify"
+                  name="BatchSize">0</property>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out. A value of 0 indicates infinite time-out. "
+                  expressionType="Notify"
+                  name="CommandTimeout">30</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether to use the SqlBulkCopy interface to improve the performance of bulk insert operations. Only certain providers support this interface."
+                  expressionType="Notify"
+                  name="UseBulkInsertWhenPossible">true</property>
                 <property
                   dataType="System.String"
-                  description="The SQL command to be executed."
-                  expressionType="Notify"
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">Exec ActualizarDimAeropuertos ?, ?, ?</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
+                  name="UserComponentTypeName">Microsoft.ADONETDestination</property>
               </properties>
               <connections>
                 <connection
-                  refId="Package\Data Flow Task\OLE DB Command.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[Destino]"
-                  connectionManagerRefId="Package.ConnectionManagers[Destino]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
+                  refId="Package\Data Flow Task\Llenado de dimension.Connections[IDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DestinoAdo]"
+                  connectionManagerRefId="Package.ConnectionManagers[DestinoAdo]"
+                  description="Managed connection manager"
+                  name="IDbConnection" />
               </connections>
               <inputs>
                 <input
-                  refId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input]"
-                  errorOrTruncationOperation="Command Execution"
+                  refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input]"
                   errorRowDisposition="FailComponent"
                   hasSideEffects="true"
-                  name="OLE DB Command Input">
+                  name="ADO NET Destination Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input].Columns[AeropuertoKey]"
-                      cachedDataType="i4"
-                      cachedName="AeropuertoKey"
-                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[@AeropuertoKey]"
-                      lineageId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Match Output].Columns[AeropuertoKey]" />
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].Columns[AeropuertoId]"
+                      cachedDataType="i8"
+                      cachedName="AeropuertoId"
+                      externalMetadataColumnId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[AeropuertoId]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]" />
                     <inputColumn
-                      refId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input].Columns[NombreCiudad]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].Columns[NombreCiudad]"
                       cachedDataType="wstr"
                       cachedLength="250"
                       cachedName="NombreCiudad"
-                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[@NombreCiudad]"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[NombreCiudad]" />
+                      externalMetadataColumnId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[NombreCiudad]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreCiudad]" />
                     <inputColumn
-                      refId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input].Columns[NombreEstado]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].Columns[NombreEstado]"
                       cachedDataType="wstr"
                       cachedLength="250"
                       cachedName="NombreEstado"
-                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[@NombreEstado]"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[NombreEstado]" />
+                      externalMetadataColumnId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[NombreEstado]"
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[NombreEstado]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[@AeropuertoKey]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[AeropuertoKey]"
                       dataType="i4"
-                      name="@AeropuertoKey">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
-                          name="DBParamInfoFlags">81</property>
-                      </properties>
-                    </externalMetadataColumn>
+                      name="AeropuertoKey" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[@NombreCiudad]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[AeropuertoId]"
+                      dataType="i8"
+                      name="AeropuertoId" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[NombreCiudad]"
                       dataType="wstr"
                       length="250"
-                      name="@NombreCiudad">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
-                          name="DBParamInfoFlags">65</property>
-                      </properties>
-                    </externalMetadataColumn>
+                      name="NombreCiudad" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[@NombreEstado]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input].ExternalColumns[NombreEstado]"
                       dataType="wstr"
                       length="250"
-                      name="@NombreEstado">
-                      <properties>
-                        <property
-                          dataType="System.Int32"
-                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
-                          name="DBParamInfoFlags">65</property>
-                      </properties>
-                    </externalMetadataColumn>
+                      name="NombreEstado" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Data Flow Task\OLE DB Command.Outputs[OLE DB Command Output]"
-                  exclusionGroup="1"
-                  name="OLE DB Command Output"
-                  synchronousInputId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input]">
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Data Flow Task\OLE DB Command.Outputs[OLE DB Command Error Output]"
+                  refId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
-                  name="OLE DB Command Error Output"
-                  synchronousInputId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input]">
+                  name="ADO NET Destination Error Output"
+                  synchronousInputId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\OLE DB Command.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\OLE DB Command.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Data Flow Task\OLE DB Command.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
+                      refId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\OLE DB Command.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Data Flow Task\Llenado de dimension.Outputs[ADO NET Destination Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -527,7 +527,7 @@ where [refTable].[AeropuertoId] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[AeropuertoId]};</property>
+                  name="ParameterMap">#{Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -554,7 +554,7 @@ where [refTable].[AeropuertoId] = ?</property>
                       refId="Package\Data Flow Task\Verificar si el registro ya existe.Inputs[Lookup Input].Columns[AeropuertoId]"
                       cachedDataType="i8"
                       cachedName="AeropuertoId"
-                      lineageId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output].Columns[AeropuertoId]">
+                      lineageId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output].Columns[AeropuertoId]">
                       <properties>
                         <property
                           dataType="System.String"
@@ -633,15 +633,15 @@ where [refTable].[AeropuertoId] = ?</property>
               refId="Package\Data Flow Task.Paths[ADO NET Source Output]"
               endId="Package\Data Flow Task\Verificar si el registro ya existe.Inputs[Lookup Input]"
               name="ADO NET Source Output"
-              startId="Package\Data Flow Task\ADO NET Source.Outputs[ADO NET Source Output]" />
+              startId="Package\Data Flow Task\Lectura de datos.Outputs[ADO NET Source Output]" />
             <path
               refId="Package\Data Flow Task.Paths[Lookup Match Output]"
-              endId="Package\Data Flow Task\OLE DB Command.Inputs[OLE DB Command Input]"
+              endId="Package\Data Flow Task\Actualizacion de registros.Inputs[OLE DB Command Input]"
               name="Lookup Match Output"
               startId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup Match Output]" />
             <path
               refId="Package\Data Flow Task.Paths[Lookup No Match Output]"
-              endId="Package\Data Flow Task\ADO NET Destination.Inputs[ADO NET Destination Input]"
+              endId="Package\Data Flow Task\Llenado de dimension.Inputs[ADO NET Destination Input]"
               name="Lookup No Match Output"
               startId="Package\Data Flow Task\Verificar si el registro ya existe.Outputs[Lookup No Match Output]" />
           </paths>
@@ -674,8 +674,8 @@ where [refTable].[AeropuertoId] = ?</property>
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="166,42"
-          Id="Package\Data Flow Task\ADO NET Source"
+          Size="161,42"
+          Id="Package\Data Flow Task\Lectura de datos"
           TopLeft="168,144" />
         <NodeLayout
           Size="228,42"
@@ -683,30 +683,30 @@ where [refTable].[AeropuertoId] = ?</property>
           TopLeft="497,164" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[ADO NET Source Output]"
-          TopLeft="334,165">
+          TopLeft="329,165">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="163,20"
+              EndConnector="168,20"
               Start="0,0"
-              End="155.5,20">
+              End="160.5,20">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="77.5,0" />
+                    End="80,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="77.5,0"
-                    Point2="81.5,0"
-                    Point3="81.5,4" />
+                    Point1="80,0"
+                    Point2="84,0"
+                    Point3="84,4" />
                   <mssgle:LineSegment
-                    End="81.5,16" />
+                    End="84,16" />
                   <mssgle:CubicBezierSegment
-                    Point1="81.5,16"
-                    Point2="81.5,20"
-                    Point3="85.5,20" />
+                    Point1="84,16"
+                    Point2="84,20"
+                    Point3="88,20" />
                   <mssgle:LineSegment
-                    End="155.5,20" />
+                    End="160.5,20" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -716,8 +716,8 @@ where [refTable].[AeropuertoId] = ?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
-          Size="186,42"
-          Id="Package\Data Flow Task\ADO NET Destination"
+          Size="187,42"
+          Id="Package\Data Flow Task\Llenado de dimension"
           TopLeft="163,297" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Lookup No Match Output]"
@@ -725,9 +725,9 @@ where [refTable].[AeropuertoId] = ?</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-318.333333333333,91"
+              EndConnector="-317.833333333333,91"
               Start="0,0"
-              End="-318.333333333333,83.5">
+              End="-317.833333333333,83.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -738,26 +738,26 @@ where [refTable].[AeropuertoId] = ?</property>
                     Point2="0,36.7804878048781"
                     Point3="-4,36.7804878048781" />
                   <mssgle:LineSegment
-                    End="-314.333333333333,36.7804878048781" />
+                    End="-313.833333333333,36.7804878048781" />
                   <mssgle:CubicBezierSegment
-                    Point1="-314.333333333333,36.7804878048781"
-                    Point2="-318.333333333333,36.7804878048781"
-                    Point3="-318.333333333333,40.7804878048781" />
+                    Point1="-313.833333333333,36.7804878048781"
+                    Point2="-317.833333333333,36.7804878048781"
+                    Point3="-317.833333333333,40.7804878048781" />
                   <mssgle:LineSegment
-                    End="-318.333333333333,83.5" />
+                    End="-317.833333333333,83.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-214.973053385417,41.7804878048781,111.6127734375,11.609375"
+              BoundingBox="-214.723053385417,41.7804878048781,111.6127734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
-          Size="173,42"
-          Id="Package\Data Flow Task\OLE DB Command"
+          Size="204,42"
+          Id="Package\Data Flow Task\Actualizacion de registros"
           TopLeft="811,316" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Lookup Match Output]"
@@ -765,9 +765,9 @@ where [refTable].[AeropuertoId] = ?</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="249.833333333333,110"
+              EndConnector="265.333333333333,110"
               Start="0,0"
-              End="249.833333333333,102.5">
+              End="265.333333333333,102.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -778,20 +778,20 @@ where [refTable].[AeropuertoId] = ?</property>
                     Point2="0,44.4599303135889"
                     Point3="4,44.4599303135889" />
                   <mssgle:LineSegment
-                    End="245.833333333333,44.4599303135889" />
+                    End="261.333333333333,44.4599303135889" />
                   <mssgle:CubicBezierSegment
-                    Point1="245.833333333333,44.4599303135889"
-                    Point2="249.833333333333,44.4599303135889"
-                    Point3="249.833333333333,48.4599303135889" />
+                    Point1="261.333333333333,44.4599303135889"
+                    Point2="265.333333333333,44.4599303135889"
+                    Point3="265.333333333333,48.4599303135889" />
                   <mssgle:LineSegment
-                    End="249.833333333333,102.5" />
+                    End="265.333333333333,102.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="76.7252799479167,49.4599303135889,96.3827734375,11.609375"
+              BoundingBox="84.4752799479167,49.4599303135889,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -799,7 +799,7 @@ where [refTable].[AeropuertoId] = ?</property>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\ADO NET Source">
+    design-time-name="Package\Data Flow Task\Lectura de datos">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -830,7 +830,7 @@ where [refTable].[AeropuertoId] = ?</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\ADO NET Destination">
+    design-time-name="Package\Data Flow Task\Llenado de dimension">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>

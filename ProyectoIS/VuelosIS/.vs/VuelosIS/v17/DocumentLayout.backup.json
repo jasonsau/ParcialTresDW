@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\DimAeropuerto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
-      "RelativeMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|solutionrelative:VuelosIS\\DimAeropuerto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+      "AbsoluteMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\FactVuelos.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|solutionrelative:VuelosIS\\FactVuelos.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\DimAirlines.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
       "RelativeMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|solutionrelative:VuelosIS\\DimAirlines.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\DimAeropuerto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A9725413-EAC8-441D-A3F9-9E887C086EFF}|VuelosIS\\VuelosIS.dtproj|solutionrelative:VuelosIS\\DimAeropuerto.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +35,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FactVuelos.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\FactVuelos.dtsx",
+              "RelativeDocumentMoniker": "VuelosIS\\FactVuelos.dtsx",
+              "ToolTip": "C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\FactVuelos.dtsx [Design]",
+              "RelativeToolTip": "VuelosIS\\FactVuelos.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-23T07:40:50.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DimAeropuerto.dtsx [Design]",
               "DocumentMoniker": "C:\\Users\\js\\Documents\\ID\\Parcial3\\ProyectoIS\\VuelosIS\\VuelosIS\\DimAeropuerto.dtsx",
               "RelativeDocumentMoniker": "VuelosIS\\DimAeropuerto.dtsx",
