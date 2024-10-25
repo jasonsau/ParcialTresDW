@@ -12,6 +12,9 @@
     - Minutos de retraso en una llegada
     - Numero de vuelos retrasados
 - **Diagrama de Data set**
-![Data set diagrama](imagenes/Parcial3Dataset.drawio.png)
-- **Diagrama Dimensional DW** 
-![DW](imagenes/Parcial3DW.drawio.png)
+
+  ![Data set diagrama](imagenes/Parcial3Dataset.drawio.png)
+
+- **Diagrama Dimensional DW**
+
+  ![DW](imagenes/Parcial3DW.drawio.png)
