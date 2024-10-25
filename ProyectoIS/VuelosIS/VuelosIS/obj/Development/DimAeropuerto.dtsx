@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="DimAeropuerto"
   DTS:PackageType="5"
-  DTS:VersionBuild="7"
-  DTS:VersionGUID="{3245684B-2951-472D-8C5B-AE5E7577E5B6}">
+  DTS:VersionBuild="8"
+  DTS:VersionGUID="{05238D33-BF1B-4630-AF24-73933EED67F4}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAd3cbzn+1HlDkVhPP/wtaTU0grbISUTfAjifN9OsaQOAAAAAAOgAAAAAIAACAAAAAeQ09SYdsoDQdMvLSulAEUUJFCHNt3tnSmnq69d1sQniAAAAA3/0iute6zlMhDMOgPBVtNuB7xTDmeDFZDF8jX7sWMBUAAAAAAsQhj0Ogt4IAq0HxFIkDvA8E0fZwJ01kzL5X4FD1izcTcrn1MwwPK1LtM3AuICBRqXc5yA7Oc0aBEGzg9KzAZ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADHLgyNRGBlppuh5yFAzCQE2thexiXik4gDu2b531/B3QAAAAAOgAAAAAIAACAAAAAOIJggj1wutV07oUtFtfYveJ3HLEzN6xS3FJMoi8cAVSAAAADbcN50i1TZq03SgCK7jcI3M/Kvy1VjlTwBpourAaCEkUAAAAAIQlxzVBo+kxqJyCqi7OR23RzXfPjAwMdinTQexeiLSAhRRrdFNm3DfhBYxs17GzaxXrmJmg+TI2nhU64yxt6f</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -44,7 +44,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABbQjNMj2XzBxbdB/I6buefKO00YdwNl7+FQHmm7i1dmAAAAAAOgAAAAAIAACAAAABUQv2O7AjmY2is7DrghJXOrtGZ/MJSR63GAGm7JK/8lCAAAAAEKztKC2sMfqeFx0EfNi9DFFzmAx+ZG5jRh8Q3Mg9waEAAAAD1HJ0aPewiVQpyq6cngtXrhe9M/bqCWogXjhH+Q44u9Nau85t5AGr/ifsfyL49p5awDXU7t5JIZAl+4O7XjVyS</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADT7a88hOY3oYCW2YAydHipOOxmShGehYXzLzn+EiWYdAAAAAAOgAAAAAIAACAAAADMOOkKCqXAvqSwK/ozzyOf+ju/ShE57i0fFI6vMIfWryAAAAA0RNIb+CvshIXuOz5UzKUntuutuGkoEeAatZEduLaQ/EAAAABXvo4p5M29ogC3ezBHT4BbpB3rGXw8LyhXsHxwUmDlX7s8WI/yBKdBiUSMgA3S5qeZicPUAndRoKCePrkiDr/X</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -59,7 +59,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA0+f/RblEW2lSfSq+NDtcyfC3vLgjwGouFdm/759ucPQAAAAAOgAAAAAIAACAAAAC3qJKEDn81KLsJD3uN4GKZXM9mabRHqYAvr9HZ0jzy8CAAAAAm1eWMW8XKZtWAFB8JZTCaujlgzHb4uPISptCg2r0aoUAAAABxogd3y39ptSULP2NNi63mhfVgKlfXD7A42LVrFzQzVSUFRl5V6uQfXbgePJxMqSXwLmGzzL/kF/Y69VqACqoY</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA93fvGPMaymfh8guM5hccXCplY1h5H//apKYMMS71jJAAAAAAOgAAAAAIAACAAAADIpdAWZnVqo6LGnhgJDAlwZ+kGZA0eA2+o79n2KTEbpCAAAAAjky8vT/lrFpNjYmzbAIz6GplG6M3Zd5kSTcpBWah+y0AAAABKHLHDf1sqtkMXK92W0jz+uMoNfQwVnXS+5kMsYMhjcWOohXPqGEbOZGe8d/iI+yWp2AOwe2+JM4sz2q+eWO0j</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -674,51 +674,21 @@ where [refTable].[AeropuertoId] = ?</property>
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="161,42"
-          Id="Package\Data Flow Task\Lectura de datos"
-          TopLeft="168,144" />
-        <NodeLayout
           Size="228,42"
           Id="Package\Data Flow Task\Verificar si el registro ya existe"
           TopLeft="497,164" />
-        <EdgeLayout
-          Id="Package\Data Flow Task.Paths[ADO NET Source Output]"
-          TopLeft="329,165">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="168,20"
-              Start="0,0"
-              End="160.5,20">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="80,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="80,0"
-                    Point2="84,0"
-                    Point3="84,4" />
-                  <mssgle:LineSegment
-                    End="84,16" />
-                  <mssgle:CubicBezierSegment
-                    Point1="84,16"
-                    Point2="84,20"
-                    Point3="88,20" />
-                  <mssgle:LineSegment
-                    End="160.5,20" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+        <NodeLayout
+          Size="204,42"
+          Id="Package\Data Flow Task\Actualizacion de registros"
+          TopLeft="811,316" />
         <NodeLayout
           Size="187,42"
           Id="Package\Data Flow Task\Llenado de dimension"
           TopLeft="163,297" />
+        <NodeLayout
+          Size="161,42"
+          Id="Package\Data Flow Task\Lectura de datos"
+          TopLeft="168,144" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Lookup No Match Output]"
           TopLeft="574.333333333333,206">
@@ -755,10 +725,6 @@ where [refTable].[AeropuertoId] = ?</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="204,42"
-          Id="Package\Data Flow Task\Actualizacion de registros"
-          TopLeft="811,316" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Lookup Match Output]"
           TopLeft="647.666666666667,206">
@@ -795,24 +761,50 @@ where [refTable].[AeropuertoId] = ?</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Data Flow Task.Paths[ADO NET Source Output]"
+          TopLeft="329,165">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="168,20"
+              Start="0,0"
+              End="160.5,20">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="80,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="80,0"
+                    Point2="84,0"
+                    Point3="84,4" />
+                  <mssgle:LineSegment
+                    End="84,16" />
+                  <mssgle:CubicBezierSegment
+                    Point1="84,16"
+                    Point2="84,20"
+                    Point3="88,20" />
+                  <mssgle:LineSegment
+                    End="160.5,20" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\Lectura de datos">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Data Flow Task\Verificar si el registro ya existe">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -822,7 +814,7 @@ where [refTable].[AeropuertoId] = ?</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -831,6 +823,14 @@ where [refTable].[AeropuertoId] = ?</property>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Data Flow Task\Llenado de dimension">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Data Flow Task\Lectura de datos">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>

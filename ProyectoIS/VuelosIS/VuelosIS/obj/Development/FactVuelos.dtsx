@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="39"
-  DTS:VersionGUID="{69608ECB-0670-4F4D-8F73-18B15FFB6E24}">
+  DTS:VersionBuild="55"
+  DTS:VersionGUID="{9825544E-7112-41D3-8D6A-8E60E5133CAF}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAANm3biQUD9kars8NLZyx8uxpWW+1ru4J9DF7e1I52aqQAAAAAOgAAAAAIAACAAAABMm2ZwCJVc6Qh5ca9mfy61TDGAvwQTPdMEvLWmVWiYqSAAAAA6kvDYky+fMlhabtAMM3+WmCM91vWXFcg4RNe+5C+E5EAAAAArudNY+yJwUu/NHDul/v1hHQ/3gqE/hJJwxHXacTnYmVy5V79CvKqgkIRVCsR2A08SlCpluwbugX8jPk5tkIQm</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADRUKjKM/YoelwcyKtT1Xio6iyTgknKAkwquljXIERpYAAAAAAOgAAAAAIAACAAAABuqjBBeJ6uznJQW3h+I0g9QjaV6y8uZM5SW9SNd7CZVyAAAAAeu7acwFISVwsmfn/tShsC1vsjEeTCEchVskL2hrZrVEAAAAAjPJs/rbOuioBgT7RgaWfiiABxzKYymHNwfvSnTeEfKz3afpLJhY0/VgejFqmfzDFevV39RW4H7WwMAzLdto11</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -44,7 +44,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAHvzMCLeADyZ7h00tUc3Akll6wMubVXM+7VdPeQoZD3AAAAAAOgAAAAAIAACAAAABfJNjBYXQLAs66+WXK7VsMRCqlnqszogk7V07TuuQQsyAAAACFLZIO++HnbtqFbFxmtTtzroK6VfxQ4N+SwcmHsxJemUAAAAC1+yXQp3oCB/AQKlAtuslgzq3E4ix0HBhANkVGmgRdzg6wvBgvvBWoe2hhwYNwWmrZyb9Qs6mSRXukFu5OoVxX</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD/E6X7QKXSJuZ5jHusCWgiNO8E7V1AJotT24NgX/eIGwAAAAAOgAAAAAIAACAAAADkzeE8FLPm8kEtVRwcH+uO3Q+vILW/H7tDNYxZfYmB4SAAAABRcCM1m+ObX+xdjZYgAMi726RJcg5gwDpVgHB5wRXGhEAAAACjQBbH5w4tul+7SjajOvruHHRhq4n/W8rpiZarW2XUGD1WcVVo0CaZY+w9sSmx6kN5tfmSAEYraUy7PPhCy4oC</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -338,7 +338,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB5Me9zsxhb/LOJHY9NkAeuNeqwfNWvyF9fJZHAG4YnagAAAAAOgAAAAAIAACAAAADr67icaVw2ViQieaazf+S0oMTbq0bkLCMAsJiN2qi3zCAAAADmF3vIpsxKxDKTBaeZHVRig1mBMep4XCIi0i3IYZq+PEAAAAAISsCH2hgQmYl+xl99cz7poh7u0yUNTjC3rfafQwXvXUTyKrDcmnzyqYlYVqO7k8tfZWQe7ZuqphGEgmdL64zR</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVjEO+z0Wqk6tj7LRX+YGJAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAwRQ1Glt54UuXtQcWbL6PUhZkFSrqee4Rrg/4VXPArQQAAAAAOgAAAAAIAACAAAADYhnv771deqryMwKJXYcAqABnbrl7I9mSDI/jyAUJcLyAAAAABkXrzMoLd5zME0ZEcTj2lGpGDmwO0aG+rs61r7MMCjkAAAAA2D2Ke/WzmhdJK2Oosz3YlZolsotRtNQSBvYcocSxh54S7bTCJwn/20w+WGNOSSTcyqwwDJLGlgK9uXluDhyGb</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -360,7 +360,6 @@
       DTS:refId="Package\Execute SQL Task"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{4F87C433-C567-45E3-9B9D-52A714897E66}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -378,7 +377,6 @@
       DTS:refId="Package\Lectura Parametros"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{68968BCE-EDB2-4778-947E-90F9E2E6A0D6}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -402,7 +400,6 @@
       DTS:refId="Package\Llenar tabla de hechos"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:Disabled="True"
       DTS:DTSID="{BC87BAE7-9C78-4AFF-9A13-FFCBB4CA9927}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -487,7 +484,7 @@ where [refTable].[AeropuertoId] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[AeropuertoOrigenBigInt]};</property>
+                  name="ParameterMap">#{Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[AeropuertoOrigenBigInt]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -514,7 +511,7 @@ where [refTable].[AeropuertoId] = ?</property>
                       refId="Package\Llenar tabla de hechos\Busqueda de llave subrogada de Aeropuerto Origin.Inputs[Lookup Input].Columns[AeropuertoOrigenBigInt]"
                       cachedDataType="i8"
                       cachedName="AeropuertoOrigenBigInt"
-                      lineageId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[AeropuertoOrigenBigInt]">
+                      lineageId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[AeropuertoOrigenBigInt]">
                       <properties>
                         <property
                           dataType="System.String"
@@ -645,7 +642,7 @@ where [refTable].[AeropuertoId] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[AeropuertoDestinoBigInt]};</property>
+                  name="ParameterMap">#{Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[AeropuertoDestinoBigInt]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -672,7 +669,7 @@ where [refTable].[AeropuertoId] = ?</property>
                       refId="Package\Llenar tabla de hechos\Busqueda de LLave subrugada Aeropuerto Destino.Inputs[Lookup Input].Columns[AeropuertoDestinoBigInt]"
                       cachedDataType="i8"
                       cachedName="AeropuertoDestinoBigInt"
-                      lineageId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[AeropuertoDestinoBigInt]">
+                      lineageId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[AeropuertoDestinoBigInt]">
                       <properties>
                         <property
                           dataType="System.String"
@@ -962,7 +959,7 @@ where [refTable].[Fecha] = ?</property>
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[FechaVueloTimestamp]};</property>
+                  name="ParameterMap">#{Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[FechaVueloTimestamp]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -989,7 +986,7 @@ where [refTable].[Fecha] = ?</property>
                       refId="Package\Llenar tabla de hechos\Busqueda de llave subrugada de Tiempo.Inputs[Lookup Input].Columns[FechaVueloTimestamp]"
                       cachedDataType="dbTimeStamp"
                       cachedName="FechaVueloTimestamp"
-                      lineageId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[FechaVueloTimestamp]">
+                      lineageId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[FechaVueloTimestamp]">
                       <properties>
                         <property
                           dataType="System.String"
@@ -1064,143 +1061,29 @@ where [refTable].[Fecha] = ?</property>
               </outputs>
             </component>
             <component
-              refId="Package\Llenar tabla de hechos\Conditional Split"
-              componentClassID="Microsoft.ConditionalSplit"
-              contactInfo="Conditional Split;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-              description="Routes data rows to different outputs depending on the content of the data. Use conditions (SSIS expressions) to specify which rows are routed. For example, separate records that need to be cleaned from those that are ready to be loaded or route only a subset of records."
-              name="Conditional Split"
-              usesDispositions="true">
-              <inputs>
-                <input
-                  refId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input]"
-                  description="Input to the Conditional Split Transformation"
-                  name="Conditional Split Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input].Columns[HoraSalidaProgramada]"
-                      cachedDataType="r8"
-                      cachedName="HoraSalidaProgramada"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraSalidaProgramada]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input].Columns[HoraSalidaReal]"
-                      cachedDataType="r8"
-                      cachedName="HoraSalidaReal"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraSalidaReal]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input].Columns[RetrasoSalida]"
-                      cachedDataType="r8"
-                      cachedName="RetrasoSalida"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[RetrasoSalida]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input].Columns[HoraLLegadaProgramada]"
-                      cachedDataType="r8"
-                      cachedName="HoraLLegadaProgramada"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraLLegadaProgramada]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input].Columns[HoraLLegadaReal]"
-                      cachedDataType="r8"
-                      cachedName="HoraLLegadaReal"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraLLegadaReal]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input].Columns[RetrasoLLegada]"
-                      cachedDataType="r8"
-                      cachedName="RetrasoLLegada"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[RetrasoLLegada]" />
-                  </inputColumns>
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Case 1]"
-                  description="Output 1 of the Conditional Split Transformation"
-                  errorOrTruncationOperation="Computation"
-                  errorRowDisposition="RedirectRow"
-                  exclusionGroup="1"
-                  name="Case 1"
-                  synchronousInputId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input]"
-                  truncationRowDisposition="RedirectRow">
-                  <properties>
-                    <property
-                      containsID="true"
-                      dataType="System.String"
-                      description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
-                      name="Expression">[ISNULL](#{Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraSalidaProgramada]}) || [ISNULL](#{Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraSalidaReal]}) || [ISNULL](#{Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[RetrasoSalida]}) || [ISNULL](#{Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraLLegadaProgramada]}) || [ISNULL](#{Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraLLegadaReal]}) || [ISNULL](#{Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[RetrasoLLegada]})</property>
-                    <property
-                      containsID="true"
-                      dataType="System.String"
-                      description="Specifies the friendly version of the expression. This expression version uses column names."
-                      expressionType="Notify"
-                      name="FriendlyExpression">ISNULL(HoraSalidaProgramada) || ISNULL(HoraSalidaReal) || ISNULL(RetrasoSalida) || ISNULL(HoraLLegadaProgramada) || ISNULL(HoraLLegadaReal) || ISNULL(RetrasoLLegada)</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
-                      name="EvaluationOrder">0</property>
-                  </properties>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Default Output]"
-                  description="Default Output of the Conditional Split Transformation"
-                  exclusionGroup="1"
-                  name="Conditional Split Default Output"
-                  synchronousInputId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input]">
-                  <properties>
-                    <property
-                      dataType="System.Boolean"
-                      name="IsDefaultOut">true</property>
-                  </properties>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Error Output]"
-                  description="Error Output of the Conditional Split Transformation"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Conditional Split Error Output"
-                  synchronousInputId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Llenar tabla de hechos\Data Conversion"
+              refId="Package\Llenar tabla de hechos\Conversion de datos"
               componentClassID="Microsoft.DataConvert"
               contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
               description="Data Conversion"
-              name="Data Conversion"
+              name="Conversion de datos"
               usesDispositions="true">
               <inputs>
                 <input
-                  refId="Package\Llenar tabla de hechos\Data Conversion.Inputs[Data Conversion Input]"
+                  refId="Package\Llenar tabla de hechos\Conversion de datos.Inputs[Data Conversion Input]"
                   name="Data Conversion Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Llenar tabla de hechos\Data Conversion.Inputs[Data Conversion Input].Columns[AeropuertoOrigen]"
+                      refId="Package\Llenar tabla de hechos\Conversion de datos.Inputs[Data Conversion Input].Columns[AeropuertoOrigen]"
                       cachedDataType="i8"
                       cachedName="AeropuertoOrigen"
                       lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[AeropuertoOrigen]" />
                     <inputColumn
-                      refId="Package\Llenar tabla de hechos\Data Conversion.Inputs[Data Conversion Input].Columns[AeropuertoDestino]"
+                      refId="Package\Llenar tabla de hechos\Conversion de datos.Inputs[Data Conversion Input].Columns[AeropuertoDestino]"
                       cachedDataType="i8"
                       cachedName="AeropuertoDestino"
                       lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[AeropuertoDestino]" />
                     <inputColumn
-                      refId="Package\Llenar tabla de hechos\Data Conversion.Inputs[Data Conversion Input].Columns[FechaVuelo]"
+                      refId="Package\Llenar tabla de hechos\Conversion de datos.Inputs[Data Conversion Input].Columns[FechaVuelo]"
                       cachedDataType="dbDate"
                       cachedName="FechaVuelo"
                       lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[FechaVuelo]" />
@@ -1210,17 +1093,17 @@ where [refTable].[Fecha] = ?</property>
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output]"
+                  refId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output]"
                   exclusionGroup="1"
                   name="Data Conversion Output"
-                  synchronousInputId="Package\Llenar tabla de hechos\Data Conversion.Inputs[Data Conversion Input]">
+                  synchronousInputId="Package\Llenar tabla de hechos\Conversion de datos.Inputs[Data Conversion Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[AeropuertoOrigenBigInt]"
+                      refId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[AeropuertoOrigenBigInt]"
                       dataType="i8"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      lineageId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[AeropuertoOrigenBigInt]"
+                      lineageId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[AeropuertoOrigenBigInt]"
                       name="AeropuertoOrigenBigInt"
                       truncationRowDisposition="FailComponent">
                       <properties>
@@ -1236,11 +1119,11 @@ where [refTable].[Fecha] = ?</property>
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[AeropuertoDestinoBigInt]"
+                      refId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[AeropuertoDestinoBigInt]"
                       dataType="i8"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      lineageId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[AeropuertoDestinoBigInt]"
+                      lineageId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[AeropuertoDestinoBigInt]"
                       name="AeropuertoDestinoBigInt"
                       truncationRowDisposition="FailComponent">
                       <properties>
@@ -1256,11 +1139,11 @@ where [refTable].[Fecha] = ?</property>
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[FechaVueloTimestamp]"
+                      refId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[FechaVueloTimestamp]"
                       dataType="dbTimeStamp"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      lineageId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output].Columns[FechaVueloTimestamp]"
+                      lineageId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output].Columns[FechaVueloTimestamp]"
                       name="FechaVueloTimestamp"
                       truncationRowDisposition="FailComponent">
                       <properties>
@@ -1279,225 +1162,28 @@ where [refTable].[Fecha] = ?</property>
                   <externalMetadataColumns />
                 </output>
                 <output
-                  refId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Error Output]"
+                  refId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
                   name="Data Conversion Error Output"
-                  synchronousInputId="Package\Llenar tabla de hechos\Data Conversion.Inputs[Data Conversion Input]">
+                  synchronousInputId="Package\Llenar tabla de hechos\Conversion de datos.Inputs[Data Conversion Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      refId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      lineageId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      refId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
               </outputs>
-            </component>
-            <component
-              refId="Package\Llenar tabla de hechos\Flat File Destination 1"
-              componentClassID="Microsoft.FlatFileDestination"
-              contactInfo="Flat File Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-              description="Flat File Destination"
-              localeId="1033"
-              name="Flat File Destination 1"
-              version="1">
-              <properties>
-                <property
-                  dataType="System.Boolean"
-                  description="Specifies whether the data will overwrite or append to the destination file."
-                  name="Overwrite">true</property>
-                <property
-                  dataType="System.Null"
-                  description="Specifies the text to write to the destination file before any data is written."
-                  expressionType="Notify"
-                  name="Header" />
-                <property
-                  dataType="System.Boolean"
-                  description="When text qualifier is enabled, specifies whether the text qualifier in the data written to the destination file will be escaped or not."
-                  name="EscapeQualifier">false</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Llenar tabla de hechos\Flat File Destination 1.Connections[FlatFileConnection]"
-                  connectionManagerID="Package.ConnectionManagers[errors]"
-                  connectionManagerRefId="Package.ConnectionManagers[errors]"
-                  name="FlatFileConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input]"
-                  hasSideEffects="true"
-                  name="Flat File Destination Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[AeropuertoOrigen]"
-                      cachedDataType="i8"
-                      cachedName="AeropuertoOrigen"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[AeropuertoOrigen]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[AeropuertoOrigen]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[AeropuertoDestino]"
-                      cachedDataType="i8"
-                      cachedName="AeropuertoDestino"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[AeropuertoDestino]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[AeropuertoDestino]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[FechaVuelo]"
-                      cachedDataType="dbDate"
-                      cachedName="FechaVuelo"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[FechaVuelo]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[FechaVuelo]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Airline]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="Airline"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Airline]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[Airline]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[NumeroVuelo]"
-                      cachedDataType="wstr"
-                      cachedLength="250"
-                      cachedName="NumeroVuelo"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[NumeroVuelo]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[NumeroVuelo]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[HoraSalidaProgramada]"
-                      cachedDataType="r8"
-                      cachedName="HoraSalidaProgramada"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[HoraSalidaProgramada]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraSalidaProgramada]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[HoraSalidaReal]"
-                      cachedDataType="r8"
-                      cachedName="HoraSalidaReal"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[HoraSalidaReal]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraSalidaReal]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[RetrasoSalida]"
-                      cachedDataType="r8"
-                      cachedName="RetrasoSalida"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[RetrasoSalida]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[RetrasoSalida]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[HoraLLegadaProgramada]"
-                      cachedDataType="r8"
-                      cachedName="HoraLLegadaProgramada"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[HoraLLegadaProgramada]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraLLegadaProgramada]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[HoraLLegadaReal]"
-                      cachedDataType="r8"
-                      cachedName="HoraLLegadaReal"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[HoraLLegadaReal]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraLLegadaReal]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[RetrasoLLegada]"
-                      cachedDataType="r8"
-                      cachedName="RetrasoLLegada"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[RetrasoLLegada]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[RetrasoLLegada]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Cancelled]"
-                      cachedDataType="bool"
-                      cachedName="Cancelled"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Cancelled]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[Cancelled]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Diverted]"
-                      cachedDataType="bool"
-                      cachedName="Diverted"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Diverted]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[Diverted]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[ErrorCode]"
-                      cachedDataType="i4"
-                      cachedName="ErrorCode"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[ErrorCode]"
-                      lineageId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorCode]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[ErrorColumn]"
-                      cachedDataType="i4"
-                      cachedName="ErrorColumn"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[ErrorColumn]"
-                      lineageId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorColumn]" />
-                  </inputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[AeropuertoOrigen]"
-                      dataType="i8"
-                      name="AeropuertoOrigen" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[AeropuertoDestino]"
-                      dataType="i8"
-                      name="AeropuertoDestino" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[FechaVuelo]"
-                      dataType="dbDate"
-                      name="FechaVuelo" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Airline]"
-                      dataType="wstr"
-                      length="255"
-                      name="Airline" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[NumeroVuelo]"
-                      dataType="wstr"
-                      length="250"
-                      name="NumeroVuelo" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[HoraSalidaProgramada]"
-                      dataType="r8"
-                      name="HoraSalidaProgramada" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[HoraSalidaReal]"
-                      dataType="r8"
-                      name="HoraSalidaReal" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[RetrasoSalida]"
-                      dataType="r8"
-                      name="RetrasoSalida" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[HoraLLegadaProgramada]"
-                      dataType="r8"
-                      name="HoraLLegadaProgramada" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[HoraLLegadaReal]"
-                      dataType="r8"
-                      name="HoraLLegadaReal" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[RetrasoLLegada]"
-                      dataType="r8"
-                      name="RetrasoLLegada" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Cancelled]"
-                      dataType="bool"
-                      name="Cancelled" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Diverted]"
-                      dataType="bool"
-                      name="Diverted" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[ErrorCode]"
-                      dataType="i4"
-                      name="ErrorCode" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[ErrorColumn]"
-                      dataType="i4"
-                      name="ErrorColumn" />
-                  </externalMetadataColumns>
-                </input>
-              </inputs>
             </component>
             <component
               refId="Package\Llenar tabla de hechos\Inseccion de data en la FactVuelos"
@@ -1710,183 +1396,6 @@ where [refTable].[Fecha] = ?</property>
                   <externalMetadataColumns />
                 </output>
               </outputs>
-            </component>
-            <component
-              refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas"
-              componentClassID="Microsoft.FlatFileDestination"
-              contactInfo="Flat File Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-              description="Flat File Destination"
-              localeId="1033"
-              name="Insercion de data que tenga metricas nulas"
-              version="1">
-              <properties>
-                <property
-                  dataType="System.Boolean"
-                  description="Specifies whether the data will overwrite or append to the destination file."
-                  name="Overwrite">true</property>
-                <property
-                  dataType="System.Null"
-                  description="Specifies the text to write to the destination file before any data is written."
-                  expressionType="Notify"
-                  name="Header" />
-                <property
-                  dataType="System.Boolean"
-                  description="When text qualifier is enabled, specifies whether the text qualifier in the data written to the destination file will be escaped or not."
-                  name="EscapeQualifier">false</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Connections[FlatFileConnection]"
-                  connectionManagerID="Package.ConnectionManagers[Flat File Connection Manager]"
-                  connectionManagerRefId="Package.ConnectionManagers[Flat File Connection Manager]"
-                  name="FlatFileConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input]"
-                  hasSideEffects="true"
-                  name="Flat File Destination Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[AeropuertoOrigen]"
-                      cachedDataType="i8"
-                      cachedName="AeropuertoOrigen"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[AeropuertoOrigen]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[AeropuertoOrigen]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[AeropuertoDestino]"
-                      cachedDataType="i8"
-                      cachedName="AeropuertoDestino"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[AeropuertoDestino]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[AeropuertoDestino]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[FechaVuelo]"
-                      cachedDataType="dbDate"
-                      cachedName="FechaVuelo"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[FechaVuelo]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[FechaVuelo]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[Airline]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="Airline"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[Airline]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[Airline]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[NumeroVuelo]"
-                      cachedDataType="wstr"
-                      cachedLength="250"
-                      cachedName="NumeroVuelo"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[NumeroVuelo]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[NumeroVuelo]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[HoraSalidaProgramada]"
-                      cachedDataType="r8"
-                      cachedName="HoraSalidaProgramada"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[HoraSalidaProgramada]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraSalidaProgramada]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[HoraSalidaReal]"
-                      cachedDataType="r8"
-                      cachedName="HoraSalidaReal"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[HoraSalidaReal]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraSalidaReal]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[RetrasoSalida]"
-                      cachedDataType="r8"
-                      cachedName="RetrasoSalida"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[RetrasoSalida]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[RetrasoSalida]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[HoraLLegadaProgramada]"
-                      cachedDataType="r8"
-                      cachedName="HoraLLegadaProgramada"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[HoraLLegadaProgramada]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraLLegadaProgramada]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[HoraLLegadaReal]"
-                      cachedDataType="r8"
-                      cachedName="HoraLLegadaReal"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[HoraLLegadaReal]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[HoraLLegadaReal]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[RetrasoLLegada]"
-                      cachedDataType="r8"
-                      cachedName="RetrasoLLegada"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[RetrasoLLegada]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[RetrasoLLegada]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[Cancelled]"
-                      cachedDataType="bool"
-                      cachedName="Cancelled"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[Cancelled]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[Cancelled]" />
-                    <inputColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].Columns[Diverted]"
-                      cachedDataType="bool"
-                      cachedName="Diverted"
-                      externalMetadataColumnId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[Diverted]"
-                      lineageId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output].Columns[Diverted]" />
-                  </inputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[AeropuertoOrigen]"
-                      dataType="i8"
-                      name="AeropuertoOrigen" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[AeropuertoDestino]"
-                      dataType="i8"
-                      name="AeropuertoDestino" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[FechaVuelo]"
-                      dataType="dbDate"
-                      name="FechaVuelo" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[Airline]"
-                      dataType="wstr"
-                      length="255"
-                      name="Airline" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[NumeroVuelo]"
-                      dataType="wstr"
-                      length="250"
-                      name="NumeroVuelo" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[HoraSalidaProgramada]"
-                      dataType="r8"
-                      name="HoraSalidaProgramada" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[HoraSalidaReal]"
-                      dataType="r8"
-                      name="HoraSalidaReal" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[RetrasoSalida]"
-                      dataType="r8"
-                      name="RetrasoSalida" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[HoraLLegadaProgramada]"
-                      dataType="r8"
-                      name="HoraLLegadaProgramada" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[HoraLLegadaReal]"
-                      dataType="r8"
-                      name="HoraLLegadaReal" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[RetrasoLLegada]"
-                      dataType="r8"
-                      name="RetrasoLLegada" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[Cancelled]"
-                      dataType="bool"
-                      name="Cancelled" />
-                    <externalMetadataColumn
-                      refId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input].ExternalColumns[Diverted]"
-                      dataType="bool"
-                      name="Diverted" />
-                  </externalMetadataColumns>
-                </input>
-              </inputs>
             </component>
             <component
               refId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio"
@@ -2225,29 +1734,14 @@ FROM Flights WHERE
           <paths>
             <path
               refId="Package\Llenar tabla de hechos.Paths[ADO NET Source Output]"
-              endId="Package\Llenar tabla de hechos\Conditional Split.Inputs[Conditional Split Input]"
+              endId="Package\Llenar tabla de hechos\Conversion de datos.Inputs[Data Conversion Input]"
               name="ADO NET Source Output"
               startId="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio.Outputs[ADO NET Source Output]" />
-            <path
-              refId="Package\Llenar tabla de hechos.Paths[Case 1]"
-              endId="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas.Inputs[Flat File Destination Input]"
-              name="Case 1"
-              startId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Case 1]" />
-            <path
-              refId="Package\Llenar tabla de hechos.Paths[Conditional Split Default Output]"
-              endId="Package\Llenar tabla de hechos\Data Conversion.Inputs[Data Conversion Input]"
-              name="Conditional Split Default Output"
-              startId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Default Output]" />
-            <path
-              refId="Package\Llenar tabla de hechos.Paths[Conditional Split Error Output]"
-              endId="Package\Llenar tabla de hechos\Flat File Destination 1.Inputs[Flat File Destination Input]"
-              name="Conditional Split Error Output"
-              startId="Package\Llenar tabla de hechos\Conditional Split.Outputs[Conditional Split Error Output]" />
             <path
               refId="Package\Llenar tabla de hechos.Paths[Data Conversion Output]"
               endId="Package\Llenar tabla de hechos\Busqueda de llave subrugada Airline.Inputs[Lookup Input]"
               name="Data Conversion Output"
-              startId="Package\Llenar tabla de hechos\Data Conversion.Outputs[Data Conversion Output]" />
+              startId="Package\Llenar tabla de hechos\Conversion de datos.Outputs[Data Conversion Output]" />
             <path
               refId="Package\Llenar tabla de hechos.Paths[Lookup Match Output]"
               endId="Package\Llenar tabla de hechos\Busqueda de llave subrogada de Aeropuerto Origin.Inputs[Lookup Input]"
@@ -2272,26 +1766,6 @@ FROM Flights WHERE
         </pipeline>
       </DTS:ObjectData>
     </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\Send Mail Task"
-      DTS:CreationName="Microsoft.SendMailTask"
-      DTS:Description="Send Mail Task"
-      DTS:DTSID="{9AC20FD0-6FEA-43B6-8781-C0BE64C768D4}"
-      DTS:ExecutableType="Microsoft.SendMailTask"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Send Mail Task"
-      DTS:TaskContact="Send Mail Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <SendMailTask:SendMailTaskData
-          SendMailTask:SMTPServer="{E138639F-14E1-4D22-9C7D-68846F049551}"
-          SendMailTask:From="factura@invering.com"
-          SendMailTask:To="jason.martinez@invering.com"
-          SendMailTask:CC="daniel.sorto@invering.com"
-          SendMailTask:Subject="Pruebas" xmlns:SendMailTask="www.microsoft.com/sqlserver/dts/tasks/sendmailtask" />
-      </DTS:ObjectData>
-    </DTS:Executable>
   </DTS:Executables>
   <DTS:PrecedenceConstraints>
     <DTS:PrecedenceConstraint
@@ -2310,14 +1784,6 @@ FROM Flights WHERE
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 1"
       DTS:To="Package\Execute SQL Task" />
-    <DTS:PrecedenceConstraint
-      DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
-      DTS:CreationName=""
-      DTS:DTSID="{12F2A835-9AA0-4D00-9938-9101BA440919}"
-      DTS:From="Package\Execute SQL Task"
-      DTS:LogicalAnd="True"
-      DTS:ObjectName="Constraint 2"
-      DTS:To="Package\Send Mail Task" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -2334,14 +1800,10 @@ FROM Flights WHERE
         <NodeLayout
           Size="175,42"
           Id="Package\Lectura Parametros"
-          TopLeft="206,94" />
-        <NodeLayout
-          Size="190,42"
-          Id="Package\Llenar tabla de hechos"
-          TopLeft="516,237" />
+          TopLeft="52.5,146" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="293.5,136">
+          TopLeft="140,188">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -2374,35 +1836,35 @@ FROM Flights WHERE
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
-          Size="170,42"
-          Id="Package\Execute SQL Task"
-          TopLeft="608,352" />
+          Size="190,42"
+          Id="Package\Llenar tabla de hechos"
+          TopLeft="362.5,289" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="611,279">
+          TopLeft="457.5,331">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="82,73"
+              EndConnector="-224,85"
               Start="0,0"
-              End="82,65.5">
+              End="-224,77.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,32.5" />
+                    End="0,38.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,32.5"
-                    Point2="0,36.5"
-                    Point3="4,36.5" />
+                    Point1="0,38.5"
+                    Point2="0,42.5"
+                    Point3="-4,42.5" />
                   <mssgle:LineSegment
-                    End="78,36.5" />
+                    End="-220,42.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="78,36.5"
-                    Point2="82,36.5"
-                    Point3="82,40.5" />
+                    Point1="-220,42.5"
+                    Point2="-224,42.5"
+                    Point3="-224,46.5" />
                   <mssgle:LineSegment
-                    End="82,65.5" />
+                    End="-224,77.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -2412,43 +1874,9 @@ FROM Flights WHERE
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
-          Size="155,42"
-          Id="Package\Send Mail Task"
-          TopLeft="709,472" />
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="693,394">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="93.5,78"
-              Start="0,0"
-              End="93.5,70.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,35" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,35"
-                    Point2="0,39"
-                    Point3="4,39" />
-                  <mssgle:LineSegment
-                    End="89.5,39" />
-                  <mssgle:CubicBezierSegment
-                    Point1="89.5,39"
-                    Point2="93.5,39"
-                    Point3="93.5,43" />
-                  <mssgle:LineSegment
-                    End="93.5,70.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          Size="170,42"
+          Id="Package\Execute SQL Task"
+          TopLeft="148.5,416" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -2456,43 +1884,117 @@ FROM Flights WHERE
     design-time-name="Package\Llenar tabla de hechos">
     <LayoutInfo>
       <GraphLayout
-        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="274,42"
           Id="Package\Llenar tabla de hechos\Lectura de metricas y llaves del negocio"
           TopLeft="178,211" />
         <NodeLayout
-          Size="258,42"
-          Id="Package\Llenar tabla de hechos\Busqueda de llave subrugada Airline"
-          TopLeft="802,206" />
+          Size="329,42"
+          Id="Package\Llenar tabla de hechos\Busqueda de LLave subrugada Aeropuerto Destino"
+          TopLeft="585,324" />
+        <NodeLayout
+          Size="279,42"
+          Id="Package\Llenar tabla de hechos\Busqueda de llave subrugada de Tiempo"
+          TopLeft="1059,324" />
+        <NodeLayout
+          Size="180,42"
+          Id="Package\Llenar tabla de hechos\Conversion de datos"
+          TopLeft="553,205" />
+        <NodeLayout
+          Size="250,42"
+          Id="Package\Llenar tabla de hechos\Inseccion de data en la FactVuelos"
+          TopLeft="124,477" />
         <NodeLayout
           Size="329,42"
           Id="Package\Llenar tabla de hechos\Busqueda de llave subrogada de Aeropuerto Origin"
           TopLeft="132,325" />
         <NodeLayout
-          Size="161,42"
-          Id="Package\Llenar tabla de hechos\Data Conversion"
-          TopLeft="553,205" />
+          Size="258,42"
+          Id="Package\Llenar tabla de hechos\Busqueda de llave subrugada Airline"
+          TopLeft="802,206" />
         <EdgeLayout
-          Id="Package\Llenar tabla de hechos.Paths[Data Conversion Output]"
-          TopLeft="714,226.5">
+          Id="Package\Llenar tabla de hechos.Paths[Lookup Match Output3]"
+          TopLeft="1198.5,366">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="88,0"
+              EndConnector="-949.5,111"
               Start="0,0"
-              End="80.5,0">
+              End="-949.5,103.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="80.5,0" />
+                    End="0,51.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,51.5"
+                    Point2="0,55.5"
+                    Point3="-4,55.5" />
+                  <mssgle:LineSegment
+                    End="-945.5,55.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-945.5,55.5"
+                    Point2="-949.5,55.5"
+                    Point3="-949.5,59.5" />
+                  <mssgle:LineSegment
+                    End="-949.5,103.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-522.94138671875,60.5,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Llenar tabla de hechos.Paths[Lookup Match Output2]"
+          TopLeft="914,345">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="145,0"
+              Start="0,0"
+              End="137.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="137.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="20.55861328125,5,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Llenar tabla de hechos.Paths[Lookup Match Output1]"
+          TopLeft="461,345.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="124,0"
+              Start="0,0"
+              End="116.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="116.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="10.05861328125,5,96.3827734375,11.609375"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2531,132 +2033,20 @@ FROM Flights WHERE
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="329,42"
-          Id="Package\Llenar tabla de hechos\Busqueda de LLave subrugada Aeropuerto Destino"
-          TopLeft="585,324" />
         <EdgeLayout
-          Id="Package\Llenar tabla de hechos.Paths[Lookup Match Output1]"
-          TopLeft="461,345.5">
+          Id="Package\Llenar tabla de hechos.Paths[Data Conversion Output]"
+          TopLeft="733,226.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="124,0"
+              EndConnector="69,0"
               Start="0,0"
-              End="116.5,0">
+              End="61.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="116.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="10.05861328125,5,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="279,42"
-          Id="Package\Llenar tabla de hechos\Busqueda de llave subrugada de Tiempo"
-          TopLeft="1059,324" />
-        <EdgeLayout
-          Id="Package\Llenar tabla de hechos.Paths[Lookup Match Output2]"
-          TopLeft="914,345">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="145,0"
-              Start="0,0"
-              End="137.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="137.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="20.55861328125,5,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="250,42"
-          Id="Package\Llenar tabla de hechos\Inseccion de data en la FactVuelos"
-          TopLeft="124,477" />
-        <EdgeLayout
-          Id="Package\Llenar tabla de hechos.Paths[Lookup Match Output3]"
-          TopLeft="1198.5,366">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-949.5,111"
-              Start="0,0"
-              End="-949.5,103.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,51.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,51.5"
-                    Point2="0,55.5"
-                    Point3="-4,55.5" />
-                  <mssgle:LineSegment
-                    End="-945.5,55.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-945.5,55.5"
-                    Point2="-949.5,55.5"
-                    Point3="-949.5,59.5" />
-                  <mssgle:LineSegment
-                    End="-949.5,103.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-522.94138671875,60.5,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="159,42"
-          Id="Package\Llenar tabla de hechos\Conditional Split"
-          TopLeft="415,107" />
-        <EdgeLayout
-          Id="Package\Llenar tabla de hechos.Paths[ADO NET Source Output]"
-          TopLeft="315,211">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="154.333333333333,-62"
-              Start="0,0"
-              End="154.333333333333,-54.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,-32.8293897882939" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,-32.8293897882939"
-                    Point2="0,-36.8293897882939"
-                    Point3="4,-36.8293897882939" />
-                  <mssgle:LineSegment
-                    End="150.333333333333,-36.8293897882939" />
-                  <mssgle:CubicBezierSegment
-                    Point1="150.333333333333,-36.8293897882939"
-                    Point2="154.333333333333,-36.8293897882939"
-                    Point3="154.333333333333,-40.8293897882939" />
-                  <mssgle:LineSegment
-                    End="154.333333333333,-54.5" />
+                    End="61.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -2666,107 +2056,25 @@ FROM Flights WHERE
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Llenar tabla de hechos.Paths[Conditional Split Default Output]"
-          TopLeft="519.666666666667,149">
+          Id="Package\Llenar tabla de hechos.Paths[ADO NET Source Output]"
+          TopLeft="452,229">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="113.833333333333,56"
+              EndConnector="101,0"
               Start="0,0"
-              End="113.833333333333,48.5">
+              End="93.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,18.7347447073475" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,18.7347447073475"
-                    Point2="0,22.7347447073475"
-                    Point3="4,22.7347447073475" />
-                  <mssgle:LineSegment
-                    End="109.833333333333,22.7347447073475" />
-                  <mssgle:CubicBezierSegment
-                    Point1="109.833333333333,22.7347447073475"
-                    Point2="113.833333333333,22.7347447073475"
-                    Point3="113.833333333333,26.7347447073475" />
-                  <mssgle:LineSegment
-                    End="113.833333333333,48.5" />
+                    End="93.5,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-13.6972395833333,27.7347447073475,141.2278125,11.658203125"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="289,42"
-          Id="Package\Llenar tabla de hechos\Insercion de data que tenga metricas nulas"
-          TopLeft="733,112" />
-        <EdgeLayout
-          Id="Package\Llenar tabla de hechos.Paths[Case 1]"
-          TopLeft="574,130.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="159,0"
-              Start="0,0"
-              End="151.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="151.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="60.5319140625,5,30.436171875,9.5537109375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="185,42"
-          Id="Package\Llenar tabla de hechos\Flat File Destination 1"
-          TopLeft="141,81" />
-        <EdgeLayout
-          Id="Package\Llenar tabla de hechos.Paths[Conditional Split Error Output]"
-          TopLeft="415,128">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-89,-26"
-              Start="0,0"
-              End="-81.5,-26">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="-40.5,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-40.5,0"
-                    Point2="-44.5,0"
-                    Point3="-44.5,-4" />
-                  <mssgle:LineSegment
-                    End="-44.5,-22" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-44.5,-22"
-                    Point2="-44.5,-26"
-                    Point3="-48.5,-26" />
-                  <mssgle:LineSegment
-                    End="-81.5,-26" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-110.19390625,1,131.3878125,11.609375"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -2781,58 +2089,12 @@ FROM Flights WHERE
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Llenar tabla de hechos\Busqueda de llave subrugada Airline">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[DimAirlines]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Llenar tabla de hechos\Busqueda de llave subrogada de Aeropuerto Origin">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[DimAeropuertos]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
     design-time-name="Package\Llenar tabla de hechos\Busqueda de LLave subrugada Aeropuerto Destino">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -2842,7 +2104,7 @@ FROM Flights WHERE
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -2855,7 +2117,7 @@ FROM Flights WHERE
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -2865,7 +2127,7 @@ FROM Flights WHERE
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -2875,6 +2137,52 @@ FROM Flights WHERE
   <PipelineComponentMetadata
     design-time-name="Package\Llenar tabla de hechos\Inseccion de data en la FactVuelos">
     <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Llenar tabla de hechos\Busqueda de llave subrogada de Aeropuerto Origin">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[DimAeropuertos]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Llenar tabla de hechos\Busqueda de llave subrugada Airline">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[DimAirlines]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
       <Property>
         <Name>DataSourceViewID</Name>
       </Property>
